@@ -69,3 +69,10 @@ LINE 4: VALUES ('q', 'u', 'a', 'n', 't', 'i', 't', 'y')
 2025-11-03 08:55:27,949 - root - INFO - Подключение к базе данных установлено.
 2025-11-03 08:55:28,217 - root - INFO - Подключение к базе данных закрыто.
 2025-11-03 08:55:28,217 - root - INFO - В БД успешно загружено 7317 строк.
+2025-11-03 15:48:08,339 - root - INFO - Log file cleanup finished.
+2025-11-03 15:48:08,340 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2025-11-02'}
+2025-11-03 15:48:09,611 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-03 15:48:09,643 - root - INFO - DataFrame shape: (8807, 8)
+2025-11-03 15:48:09,795 - root - INFO - Подключение к базе данных установлено.
+2025-11-03 15:48:10,197 - root - INFO - Подключение к базе данных закрыто.
+2025-11-03 15:48:10,198 - root - INFO - В БД успешно загружено 8807 строк.
