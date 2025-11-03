@@ -1,0 +1,30 @@
+2025-10-29 15:53:08,745 - root - INFO - Log file cleanup finished.
+2025-10-29 15:57:14,267 - root - INFO - Log file cleanup finished.
+2025-10-29 15:57:14,269 - root - INFO - Attempting to fetch data from API: http://final-project.simulative.ru/data
+2025-10-29 15:57:17,042 - root - INFO - Data fetching completed successfully.
+2025-10-29 15:57:17,042 - root - INFO - Fetched 8408 records.
+2025-10-29 16:22:53,918 - root - INFO - Log file cleanup finished.
+2025-10-29 16:22:53,920 - root - INFO - Attempting to fetch data from API: http://final-project.simulative.ru/data
+2025-10-29 16:22:57,603 - root - INFO - Data fetching completed successfully.
+2025-10-29 16:22:57,603 - root - INFO - Fetched 6326 records.
+2025-10-29 16:22:57,617 - root - INFO - DataFrame shape: (6326, 9)
+2025-10-29 16:29:22,487 - root - INFO - Log file cleanup finished.
+2025-10-29 16:29:22,488 - root - INFO - Attempting to fetch data from API: http://final-project.simulative.ru/data
+2025-10-29 16:29:24,506 - root - INFO - Data fetching completed successfully.
+2025-10-29 16:29:24,506 - root - INFO - Fetched 5229 records.
+2025-10-29 16:29:24,527 - root - INFO - DataFrame shape: (5229, 10)
+2025-10-29 16:29:36,526 - root - INFO - Log file cleanup finished.
+2025-10-29 16:29:36,526 - root - INFO - Attempting to fetch data from API: http://final-project.simulative.ru/data
+2025-10-29 16:29:37,266 - root - INFO - Data fetching completed successfully.
+2025-10-29 16:29:37,266 - root - INFO - Fetched 1418 records.
+2025-10-29 16:29:37,274 - root - INFO - DataFrame shape: (1418, 10)
+2025-10-29 16:32:18,209 - root - INFO - Log file cleanup finished.
+2025-10-29 16:32:18,210 - root - INFO - Attempting to fetch data from API: http://final-project.simulative.ru/data
+2025-10-29 16:32:19,697 - root - INFO - Data fetching completed successfully.
+2025-10-29 16:32:19,697 - root - INFO - Fetched 7541 records.
+2025-10-29 16:32:19,709 - root - INFO - fetch_api_df: final shape=(7541, 8), columns=['client_id', 'gender', 'product_id', 'quantity', 'price_per_item', 'discount_per_item', 'total_price', 'purchase_datetime_full']
+2025-10-29 16:32:19,710 - root - INFO - DataFrame shape: (7541, 8)
+2025-10-29 17:08:47,200 - root - INFO - Log file cleanup finished.
+2025-10-29 17:08:47,201 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2025-10-28'}
+2025-10-29 17:08:49,452 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-10-29 17:08:49,546 - root - INFO - DataFrame shape: (8530, 8)
