@@ -1,0 +1,7 @@
+2025-11-08 15:13:43,748 - root - INFO - Log file cleanup finished.
+2025-11-08 15:13:43,749 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2025-11-07'}
+2025-11-08 15:13:48,315 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-08 15:13:48,352 - root - INFO - DataFrame shape: (7576, 8)
+2025-11-08 15:13:48,459 - root - INFO - Подключение к базе данных установлено.
+2025-11-08 15:13:48,859 - root - INFO - Подключение к базе данных закрыто.
+2025-11-08 15:13:48,859 - root - INFO - В БД успешно загружено 7576 строк.

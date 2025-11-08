@@ -13,7 +13,6 @@ from ConfigLoader import ConfigLoader
 from LoggerManager import LoggerManager
 from APIClient import APIClient
 
-CONFIG_FILE = '/Users/tatiana/Документы/Анализ данных/FINAL PROJECT/config.json'
 prev_day = (date.today()-timedelta(days=1)).strftime("%Y-%m-%d")
 
 #Логи
@@ -21,7 +20,8 @@ logger_manager = LoggerManager(log_dir='logs', keep_days=7)
 logging.info("Log file cleanup finished.")
 
 #Чтение данных из конфига
-config_loader = ConfigLoader(CONFIG_FILE)
+dirname = os.path.dirname(__file__)
+config_loader = ConfigLoader(os.path.join(dirname, "config.json"))
 config = config_loader.config
 if config is None or \
    not config.get('database') or \
