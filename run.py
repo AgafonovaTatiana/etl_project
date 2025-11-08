@@ -1,12 +1,8 @@
 import os
-import requests
-from datetime import date, timedelta, datetime
+from datetime import date, timedelta
 import pandas as pd
 import numpy as np
-import psycopg2
 import logging
-import glob
-import json
 import sys
 from pgdb import PGDataBase
 from ConfigLoader import ConfigLoader
@@ -28,9 +24,9 @@ if config is None or \
    not config.get('api_endpoint'): 
     logging.error("Failed to load essential configuration sections. Exiting.")
     sys.exit(1)
-api_url = config['api_endpoint'].get('url')
 
 #Скачивание данных в df по АПИ
+api_url = config['api_endpoint'].get('url')
 client = APIClient(timeout=60)
 params = {'date': prev_day}
 df = client.fetch_df(api_url, params=params)
