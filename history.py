@@ -28,8 +28,8 @@ if not api_url:
     logging.error("API URL is missing in config. Exiting.")
     sys.exit(1)
 
-start_date = date(2021, 1, 1)
-end_date = date.today() - timedelta(days=1)
+start_date = date(2023, 1, 1)
+end_date = date(2023, 12, 31)
 
 logging.info(f"Start full history load from {start_date} to {end_date}")
 

@@ -1,0 +1,2191 @@
+2025-11-09 19:11:40,433 - root - INFO - Log file cleanup finished.
+2025-11-09 19:11:40,434 - root - INFO - Start full history load from 2023-01-01 to 2023-12-31
+2025-11-09 19:11:40,434 - root - INFO - Requesting data for 2023-01-01
+2025-11-09 19:11:40,434 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-01'}
+2025-11-09 19:11:42,643 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:42,792 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:43,066 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:43,066 - root - INFO - 2023-01-01: inserted 8092 rows.
+2025-11-09 19:11:43,066 - root - INFO - Requesting data for 2023-01-02
+2025-11-09 19:11:43,066 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-02'}
+2025-11-09 19:11:44,720 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:44,748 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:44,927 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:44,927 - root - INFO - 2023-01-02: inserted 4959 rows.
+2025-11-09 19:11:44,928 - root - INFO - Requesting data for 2023-01-03
+2025-11-09 19:11:44,928 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-03'}
+2025-11-09 19:11:46,284 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:46,326 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:46,467 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:46,467 - root - INFO - 2023-01-03: inserted 3492 rows.
+2025-11-09 19:11:46,467 - root - INFO - Requesting data for 2023-01-04
+2025-11-09 19:11:46,467 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-04'}
+2025-11-09 19:11:48,255 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:48,308 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:48,511 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:48,511 - root - INFO - 2023-01-04: inserted 5808 rows.
+2025-11-09 19:11:48,511 - root - INFO - Requesting data for 2023-01-05
+2025-11-09 19:11:48,511 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-05'}
+2025-11-09 19:11:50,553 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:50,588 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:50,676 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:50,676 - root - INFO - 2023-01-05: inserted 1870 rows.
+2025-11-09 19:11:50,676 - root - INFO - Requesting data for 2023-01-06
+2025-11-09 19:11:50,676 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-06'}
+2025-11-09 19:11:52,053 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:52,096 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:52,220 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:52,220 - root - INFO - 2023-01-06: inserted 3162 rows.
+2025-11-09 19:11:52,220 - root - INFO - Requesting data for 2023-01-07
+2025-11-09 19:11:52,220 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-07'}
+2025-11-09 19:11:53,294 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:53,324 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:53,403 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:53,403 - root - INFO - 2023-01-07: inserted 1731 rows.
+2025-11-09 19:11:53,403 - root - INFO - Requesting data for 2023-01-08
+2025-11-09 19:11:53,403 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-08'}
+2025-11-09 19:11:54,727 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:54,764 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:54,864 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:54,864 - root - INFO - 2023-01-08: inserted 2274 rows.
+2025-11-09 19:11:54,864 - root - INFO - Requesting data for 2023-01-09
+2025-11-09 19:11:54,864 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-09'}
+2025-11-09 19:11:57,183 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:57,236 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:57,470 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:57,470 - root - INFO - 2023-01-09: inserted 6533 rows.
+2025-11-09 19:11:57,470 - root - INFO - Requesting data for 2023-01-10
+2025-11-09 19:11:57,470 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-10'}
+2025-11-09 19:11:58,905 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:11:58,937 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:11:59,069 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:11:59,069 - root - INFO - 2023-01-10: inserted 3032 rows.
+2025-11-09 19:11:59,069 - root - INFO - Requesting data for 2023-01-11
+2025-11-09 19:11:59,069 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-11'}
+2025-11-09 19:12:01,075 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:01,125 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:01,335 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:01,335 - root - INFO - 2023-01-11: inserted 5815 rows.
+2025-11-09 19:12:01,335 - root - INFO - Requesting data for 2023-01-12
+2025-11-09 19:12:01,335 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-12'}
+2025-11-09 19:12:04,189 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:04,250 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:04,528 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:04,528 - root - INFO - 2023-01-12: inserted 8143 rows.
+2025-11-09 19:12:04,528 - root - INFO - Requesting data for 2023-01-13
+2025-11-09 19:12:04,528 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-13'}
+2025-11-09 19:12:06,409 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:06,447 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:06,584 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:06,584 - root - INFO - 2023-01-13: inserted 3598 rows.
+2025-11-09 19:12:06,584 - root - INFO - Requesting data for 2023-01-14
+2025-11-09 19:12:06,584 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-14'}
+2025-11-09 19:12:08,351 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:08,396 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:08,546 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:08,546 - root - INFO - 2023-01-14: inserted 3979 rows.
+2025-11-09 19:12:08,546 - root - INFO - Requesting data for 2023-01-15
+2025-11-09 19:12:08,546 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-15'}
+2025-11-09 19:12:11,036 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:11,103 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:11,433 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:11,433 - root - INFO - 2023-01-15: inserted 9714 rows.
+2025-11-09 19:12:11,433 - root - INFO - Requesting data for 2023-01-16
+2025-11-09 19:12:11,433 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-16'}
+2025-11-09 19:12:13,625 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:13,681 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:13,933 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:13,933 - root - INFO - 2023-01-16: inserted 7157 rows.
+2025-11-09 19:12:13,933 - root - INFO - Requesting data for 2023-01-17
+2025-11-09 19:12:13,933 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-17'}
+2025-11-09 19:12:16,031 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:16,090 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:16,352 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:16,352 - root - INFO - 2023-01-17: inserted 7540 rows.
+2025-11-09 19:12:16,352 - root - INFO - Requesting data for 2023-01-18
+2025-11-09 19:12:16,352 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-18'}
+2025-11-09 19:12:18,498 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:18,549 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:18,796 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:18,797 - root - INFO - 2023-01-18: inserted 7061 rows.
+2025-11-09 19:12:18,797 - root - INFO - Requesting data for 2023-01-19
+2025-11-09 19:12:18,797 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-19'}
+2025-11-09 19:12:21,169 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:21,243 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:21,563 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:21,563 - root - INFO - 2023-01-19: inserted 9383 rows.
+2025-11-09 19:12:21,563 - root - INFO - Requesting data for 2023-01-20
+2025-11-09 19:12:21,563 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-20'}
+2025-11-09 19:12:23,266 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:23,318 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:23,546 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:23,546 - root - INFO - 2023-01-20: inserted 6446 rows.
+2025-11-09 19:12:23,546 - root - INFO - Requesting data for 2023-01-21
+2025-11-09 19:12:23,546 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-21'}
+2025-11-09 19:12:24,867 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:24,903 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:25,018 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:25,018 - root - INFO - 2023-01-21: inserted 2832 rows.
+2025-11-09 19:12:25,018 - root - INFO - Requesting data for 2023-01-22
+2025-11-09 19:12:25,018 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-22'}
+2025-11-09 19:12:26,213 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:26,250 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:26,332 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:26,332 - root - INFO - 2023-01-22: inserted 1735 rows.
+2025-11-09 19:12:26,332 - root - INFO - Requesting data for 2023-01-23
+2025-11-09 19:12:26,332 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-23'}
+2025-11-09 19:12:28,181 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:28,232 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:28,431 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:28,431 - root - INFO - 2023-01-23: inserted 5502 rows.
+2025-11-09 19:12:28,432 - root - INFO - Requesting data for 2023-01-24
+2025-11-09 19:12:28,432 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-24'}
+2025-11-09 19:12:30,659 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:30,718 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:30,970 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:30,970 - root - INFO - 2023-01-24: inserted 7130 rows.
+2025-11-09 19:12:30,970 - root - INFO - Requesting data for 2023-01-25
+2025-11-09 19:12:30,970 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-25'}
+2025-11-09 19:12:33,330 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:33,385 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:33,669 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:33,669 - root - INFO - 2023-01-25: inserted 8225 rows.
+2025-11-09 19:12:33,669 - root - INFO - Requesting data for 2023-01-26
+2025-11-09 19:12:33,669 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-26'}
+2025-11-09 19:12:35,179 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:35,220 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:35,362 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:35,362 - root - INFO - 2023-01-26: inserted 3700 rows.
+2025-11-09 19:12:35,362 - root - INFO - Requesting data for 2023-01-27
+2025-11-09 19:12:35,362 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-27'}
+2025-11-09 19:12:36,647 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:36,682 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:36,766 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:36,766 - root - INFO - 2023-01-27: inserted 1714 rows.
+2025-11-09 19:12:36,766 - root - INFO - Requesting data for 2023-01-28
+2025-11-09 19:12:36,766 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-28'}
+2025-11-09 19:12:37,976 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:38,009 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:38,094 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:38,094 - root - INFO - 2023-01-28: inserted 1799 rows.
+2025-11-09 19:12:38,094 - root - INFO - Requesting data for 2023-01-29
+2025-11-09 19:12:38,094 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-29'}
+2025-11-09 19:12:39,105 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:39,137 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:39,215 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:39,215 - root - INFO - 2023-01-29: inserted 1468 rows.
+2025-11-09 19:12:39,216 - root - INFO - Requesting data for 2023-01-30
+2025-11-09 19:12:39,216 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-30'}
+2025-11-09 19:12:40,842 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:40,881 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:41,035 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:41,035 - root - INFO - 2023-01-30: inserted 4054 rows.
+2025-11-09 19:12:41,035 - root - INFO - Requesting data for 2023-01-31
+2025-11-09 19:12:41,035 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-01-31'}
+2025-11-09 19:12:42,489 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:42,527 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:42,641 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:42,641 - root - INFO - 2023-01-31: inserted 2724 rows.
+2025-11-09 19:12:42,641 - root - INFO - Requesting data for 2023-02-01
+2025-11-09 19:12:42,641 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-01'}
+2025-11-09 19:12:44,351 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:44,398 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:44,565 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:44,565 - root - INFO - 2023-02-01: inserted 4525 rows.
+2025-11-09 19:12:44,565 - root - INFO - Requesting data for 2023-02-02
+2025-11-09 19:12:44,565 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-02'}
+2025-11-09 19:12:46,765 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:46,825 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:47,105 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:47,105 - root - INFO - 2023-02-02: inserted 8027 rows.
+2025-11-09 19:12:47,105 - root - INFO - Requesting data for 2023-02-03
+2025-11-09 19:12:47,105 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-03'}
+2025-11-09 19:12:48,988 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:49,036 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:49,215 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:49,215 - root - INFO - 2023-02-03: inserted 4893 rows.
+2025-11-09 19:12:49,215 - root - INFO - Requesting data for 2023-02-04
+2025-11-09 19:12:49,215 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-04'}
+2025-11-09 19:12:52,156 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:52,214 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:52,516 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:52,516 - root - INFO - 2023-02-04: inserted 8690 rows.
+2025-11-09 19:12:52,516 - root - INFO - Requesting data for 2023-02-05
+2025-11-09 19:12:52,516 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-05'}
+2025-11-09 19:12:54,152 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:54,185 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:54,279 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:54,279 - root - INFO - 2023-02-05: inserted 2071 rows.
+2025-11-09 19:12:54,279 - root - INFO - Requesting data for 2023-02-06
+2025-11-09 19:12:54,279 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-06'}
+2025-11-09 19:12:56,391 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:56,437 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:56,594 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:56,594 - root - INFO - 2023-02-06: inserted 4198 rows.
+2025-11-09 19:12:56,594 - root - INFO - Requesting data for 2023-02-07
+2025-11-09 19:12:56,594 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-07'}
+2025-11-09 19:12:58,460 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:12:58,505 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:12:58,690 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:12:58,690 - root - INFO - 2023-02-07: inserted 5173 rows.
+2025-11-09 19:12:58,690 - root - INFO - Requesting data for 2023-02-08
+2025-11-09 19:12:58,690 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-08'}
+2025-11-09 19:13:00,306 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:00,346 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:00,495 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:00,495 - root - INFO - 2023-02-08: inserted 3855 rows.
+2025-11-09 19:13:00,495 - root - INFO - Requesting data for 2023-02-09
+2025-11-09 19:13:00,495 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-09'}
+2025-11-09 19:13:03,177 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:03,239 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:03,574 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:03,574 - root - INFO - 2023-02-09: inserted 9669 rows.
+2025-11-09 19:13:03,574 - root - INFO - Requesting data for 2023-02-10
+2025-11-09 19:13:03,575 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-10'}
+2025-11-09 19:13:06,027 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:06,093 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:06,421 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:06,421 - root - INFO - 2023-02-10: inserted 9599 rows.
+2025-11-09 19:13:06,421 - root - INFO - Requesting data for 2023-02-11
+2025-11-09 19:13:06,421 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-11'}
+2025-11-09 19:13:07,435 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:07,463 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:07,526 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:07,526 - root - INFO - 2023-02-11: inserted 1055 rows.
+2025-11-09 19:13:07,526 - root - INFO - Requesting data for 2023-02-12
+2025-11-09 19:13:07,526 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-12'}
+2025-11-09 19:13:10,072 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:10,135 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:10,458 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:10,458 - root - INFO - 2023-02-12: inserted 9305 rows.
+2025-11-09 19:13:10,458 - root - INFO - Requesting data for 2023-02-13
+2025-11-09 19:13:10,458 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-13'}
+2025-11-09 19:13:12,435 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:12,481 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:12,680 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:12,680 - root - INFO - 2023-02-13: inserted 5364 rows.
+2025-11-09 19:13:12,680 - root - INFO - Requesting data for 2023-02-14
+2025-11-09 19:13:12,680 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-14'}
+2025-11-09 19:13:14,758 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:14,807 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:15,061 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:15,061 - root - INFO - 2023-02-14: inserted 7121 rows.
+2025-11-09 19:13:15,061 - root - INFO - Requesting data for 2023-02-15
+2025-11-09 19:13:15,061 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-15'}
+2025-11-09 19:13:16,880 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:16,931 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:17,132 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:17,132 - root - INFO - 2023-02-15: inserted 5549 rows.
+2025-11-09 19:13:17,132 - root - INFO - Requesting data for 2023-02-16
+2025-11-09 19:13:17,132 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-16'}
+2025-11-09 19:13:18,770 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:18,820 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:19,006 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:19,006 - root - INFO - 2023-02-16: inserted 4983 rows.
+2025-11-09 19:13:19,006 - root - INFO - Requesting data for 2023-02-17
+2025-11-09 19:13:19,006 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-17'}
+2025-11-09 19:13:20,475 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:20,520 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:20,659 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:20,659 - root - INFO - 2023-02-17: inserted 3409 rows.
+2025-11-09 19:13:20,659 - root - INFO - Requesting data for 2023-02-18
+2025-11-09 19:13:20,659 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-18'}
+2025-11-09 19:13:23,036 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:23,097 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:23,392 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:23,392 - root - INFO - 2023-02-18: inserted 8452 rows.
+2025-11-09 19:13:23,392 - root - INFO - Requesting data for 2023-02-19
+2025-11-09 19:13:23,392 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-19'}
+2025-11-09 19:13:25,308 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:25,360 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:25,582 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:25,583 - root - INFO - 2023-02-19: inserted 6195 rows.
+2025-11-09 19:13:25,583 - root - INFO - Requesting data for 2023-02-20
+2025-11-09 19:13:25,583 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-20'}
+2025-11-09 19:13:27,276 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:27,312 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:27,441 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:27,441 - root - INFO - 2023-02-20: inserted 3268 rows.
+2025-11-09 19:13:27,442 - root - INFO - Requesting data for 2023-02-21
+2025-11-09 19:13:27,442 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-21'}
+2025-11-09 19:13:29,018 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:29,062 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:29,227 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:29,228 - root - INFO - 2023-02-21: inserted 4334 rows.
+2025-11-09 19:13:29,228 - root - INFO - Requesting data for 2023-02-22
+2025-11-09 19:13:29,228 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-22'}
+2025-11-09 19:13:30,417 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:30,452 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:30,547 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:30,547 - root - INFO - 2023-02-22: inserted 2082 rows.
+2025-11-09 19:13:30,547 - root - INFO - Requesting data for 2023-02-23
+2025-11-09 19:13:30,547 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-23'}
+2025-11-09 19:13:32,595 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:32,662 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:32,908 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:32,908 - root - INFO - 2023-02-23: inserted 6813 rows.
+2025-11-09 19:13:32,908 - root - INFO - Requesting data for 2023-02-24
+2025-11-09 19:13:32,908 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-24'}
+2025-11-09 19:13:35,391 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:35,454 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:35,772 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:35,772 - root - INFO - 2023-02-24: inserted 9130 rows.
+2025-11-09 19:13:35,772 - root - INFO - Requesting data for 2023-02-25
+2025-11-09 19:13:35,772 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-25'}
+2025-11-09 19:13:38,086 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:38,137 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:38,347 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:38,347 - root - INFO - 2023-02-25: inserted 5737 rows.
+2025-11-09 19:13:38,347 - root - INFO - Requesting data for 2023-02-26
+2025-11-09 19:13:38,347 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-26'}
+2025-11-09 19:13:40,336 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:40,393 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:40,644 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:40,644 - root - INFO - 2023-02-26: inserted 7011 rows.
+2025-11-09 19:13:40,644 - root - INFO - Requesting data for 2023-02-27
+2025-11-09 19:13:40,644 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-27'}
+2025-11-09 19:13:41,852 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:41,890 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:42,000 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:42,000 - root - INFO - 2023-02-27: inserted 2501 rows.
+2025-11-09 19:13:42,000 - root - INFO - Requesting data for 2023-02-28
+2025-11-09 19:13:42,000 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-02-28'}
+2025-11-09 19:13:44,539 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:44,598 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:44,863 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:44,863 - root - INFO - 2023-02-28: inserted 7403 rows.
+2025-11-09 19:13:44,863 - root - INFO - Requesting data for 2023-03-01
+2025-11-09 19:13:44,863 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-01'}
+2025-11-09 19:13:47,317 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:47,381 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:47,677 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:47,677 - root - INFO - 2023-03-01: inserted 8492 rows.
+2025-11-09 19:13:47,677 - root - INFO - Requesting data for 2023-03-02
+2025-11-09 19:13:47,677 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-02'}
+2025-11-09 19:13:48,825 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:48,857 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:48,942 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:48,942 - root - INFO - 2023-03-02: inserted 1851 rows.
+2025-11-09 19:13:48,942 - root - INFO - Requesting data for 2023-03-03
+2025-11-09 19:13:48,942 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-03'}
+2025-11-09 19:13:51,449 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:51,505 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:51,759 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:51,759 - root - INFO - 2023-03-03: inserted 7150 rows.
+2025-11-09 19:13:51,759 - root - INFO - Requesting data for 2023-03-04
+2025-11-09 19:13:51,759 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-04'}
+2025-11-09 19:13:54,167 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:54,230 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:54,532 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:54,532 - root - INFO - 2023-03-04: inserted 8746 rows.
+2025-11-09 19:13:54,532 - root - INFO - Requesting data for 2023-03-05
+2025-11-09 19:13:54,532 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-05'}
+2025-11-09 19:13:56,999 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:57,063 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:57,403 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:57,403 - root - INFO - 2023-03-05: inserted 9903 rows.
+2025-11-09 19:13:57,403 - root - INFO - Requesting data for 2023-03-06
+2025-11-09 19:13:57,403 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-06'}
+2025-11-09 19:13:59,276 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:13:59,330 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:13:59,558 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:13:59,558 - root - INFO - 2023-03-06: inserted 6278 rows.
+2025-11-09 19:13:59,558 - root - INFO - Requesting data for 2023-03-07
+2025-11-09 19:13:59,558 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-07'}
+2025-11-09 19:14:02,121 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:02,178 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:02,435 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:02,435 - root - INFO - 2023-03-07: inserted 7220 rows.
+2025-11-09 19:14:02,435 - root - INFO - Requesting data for 2023-03-08
+2025-11-09 19:14:02,435 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-08'}
+2025-11-09 19:14:03,936 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:03,971 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:04,101 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:04,101 - root - INFO - 2023-03-08: inserted 3232 rows.
+2025-11-09 19:14:04,101 - root - INFO - Requesting data for 2023-03-09
+2025-11-09 19:14:04,101 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-09'}
+2025-11-09 19:14:06,491 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:06,552 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:06,828 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:06,828 - root - INFO - 2023-03-09: inserted 7813 rows.
+2025-11-09 19:14:06,828 - root - INFO - Requesting data for 2023-03-10
+2025-11-09 19:14:06,828 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-10'}
+2025-11-09 19:14:08,042 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:08,079 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:08,164 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:08,165 - root - INFO - 2023-03-10: inserted 1767 rows.
+2025-11-09 19:14:08,165 - root - INFO - Requesting data for 2023-03-11
+2025-11-09 19:14:08,165 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-11'}
+2025-11-09 19:14:10,236 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:10,296 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:10,567 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:10,567 - root - INFO - 2023-03-11: inserted 7541 rows.
+2025-11-09 19:14:10,567 - root - INFO - Requesting data for 2023-03-12
+2025-11-09 19:14:10,567 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-12'}
+2025-11-09 19:14:13,010 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:13,070 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:13,622 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:13,623 - root - INFO - 2023-03-12: inserted 8177 rows.
+2025-11-09 19:14:13,623 - root - INFO - Requesting data for 2023-03-13
+2025-11-09 19:14:13,623 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-13'}
+2025-11-09 19:14:15,519 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:15,565 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:15,779 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:15,779 - root - INFO - 2023-03-13: inserted 5668 rows.
+2025-11-09 19:14:15,779 - root - INFO - Requesting data for 2023-03-14
+2025-11-09 19:14:15,779 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-14'}
+2025-11-09 19:14:17,793 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:17,847 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:18,087 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:18,087 - root - INFO - 2023-03-14: inserted 6517 rows.
+2025-11-09 19:14:18,087 - root - INFO - Requesting data for 2023-03-15
+2025-11-09 19:14:18,087 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-15'}
+2025-11-09 19:14:20,882 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:20,947 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:21,263 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:21,263 - root - INFO - 2023-03-15: inserted 9106 rows.
+2025-11-09 19:14:21,263 - root - INFO - Requesting data for 2023-03-16
+2025-11-09 19:14:21,263 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-16'}
+2025-11-09 19:14:23,582 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:23,640 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:23,954 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:23,954 - root - INFO - 2023-03-16: inserted 8978 rows.
+2025-11-09 19:14:23,955 - root - INFO - Requesting data for 2023-03-17
+2025-11-09 19:14:23,955 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-17'}
+2025-11-09 19:14:25,032 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:25,065 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:25,145 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:25,145 - root - INFO - 2023-03-17: inserted 1576 rows.
+2025-11-09 19:14:25,145 - root - INFO - Requesting data for 2023-03-18
+2025-11-09 19:14:25,145 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-18'}
+2025-11-09 19:14:26,800 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:26,846 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:27,019 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:27,019 - root - INFO - 2023-03-18: inserted 4624 rows.
+2025-11-09 19:14:27,019 - root - INFO - Requesting data for 2023-03-19
+2025-11-09 19:14:27,019 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-19'}
+2025-11-09 19:14:29,167 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:29,222 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:29,460 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:29,460 - root - INFO - 2023-03-19: inserted 6568 rows.
+2025-11-09 19:14:29,460 - root - INFO - Requesting data for 2023-03-20
+2025-11-09 19:14:29,460 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-20'}
+2025-11-09 19:14:31,427 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:31,475 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:31,644 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:31,644 - root - INFO - 2023-03-20: inserted 4466 rows.
+2025-11-09 19:14:31,644 - root - INFO - Requesting data for 2023-03-21
+2025-11-09 19:14:31,644 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-21'}
+2025-11-09 19:14:33,916 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:33,966 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:34,215 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:34,215 - root - INFO - 2023-03-21: inserted 6884 rows.
+2025-11-09 19:14:34,215 - root - INFO - Requesting data for 2023-03-22
+2025-11-09 19:14:34,215 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-22'}
+2025-11-09 19:14:36,812 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:36,877 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:37,201 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:37,201 - root - INFO - 2023-03-22: inserted 9182 rows.
+2025-11-09 19:14:37,201 - root - INFO - Requesting data for 2023-03-23
+2025-11-09 19:14:37,201 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-23'}
+2025-11-09 19:14:38,505 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:38,546 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:38,662 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:38,662 - root - INFO - 2023-03-23: inserted 2724 rows.
+2025-11-09 19:14:38,662 - root - INFO - Requesting data for 2023-03-24
+2025-11-09 19:14:38,662 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-24'}
+2025-11-09 19:14:40,788 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:40,841 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:41,053 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:41,053 - root - INFO - 2023-03-24: inserted 5823 rows.
+2025-11-09 19:14:41,053 - root - INFO - Requesting data for 2023-03-25
+2025-11-09 19:14:41,053 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-25'}
+2025-11-09 19:14:43,237 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:43,296 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:43,524 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:43,524 - root - INFO - 2023-03-25: inserted 6282 rows.
+2025-11-09 19:14:43,524 - root - INFO - Requesting data for 2023-03-26
+2025-11-09 19:14:43,524 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-26'}
+2025-11-09 19:14:45,670 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:45,738 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:46,001 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:46,001 - root - INFO - 2023-03-26: inserted 7358 rows.
+2025-11-09 19:14:46,001 - root - INFO - Requesting data for 2023-03-27
+2025-11-09 19:14:46,001 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-27'}
+2025-11-09 19:14:47,326 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:47,368 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:47,484 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:47,484 - root - INFO - 2023-03-27: inserted 2783 rows.
+2025-11-09 19:14:47,484 - root - INFO - Requesting data for 2023-03-28
+2025-11-09 19:14:47,485 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-28'}
+2025-11-09 19:14:50,074 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:50,128 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:50,390 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:50,390 - root - INFO - 2023-03-28: inserted 7356 rows.
+2025-11-09 19:14:50,390 - root - INFO - Requesting data for 2023-03-29
+2025-11-09 19:14:50,390 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-29'}
+2025-11-09 19:14:51,790 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:51,834 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:51,978 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:51,978 - root - INFO - 2023-03-29: inserted 3685 rows.
+2025-11-09 19:14:51,978 - root - INFO - Requesting data for 2023-03-30
+2025-11-09 19:14:51,978 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-30'}
+2025-11-09 19:14:54,155 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:54,212 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:54,476 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:54,476 - root - INFO - 2023-03-30: inserted 7342 rows.
+2025-11-09 19:14:54,476 - root - INFO - Requesting data for 2023-03-31
+2025-11-09 19:14:54,476 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-03-31'}
+2025-11-09 19:14:56,453 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:56,509 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:56,736 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:56,736 - root - INFO - 2023-03-31: inserted 6267 rows.
+2025-11-09 19:14:56,736 - root - INFO - Requesting data for 2023-04-01
+2025-11-09 19:14:56,736 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-01'}
+2025-11-09 19:14:58,982 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:14:59,044 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:14:59,313 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:14:59,313 - root - INFO - 2023-04-01: inserted 7619 rows.
+2025-11-09 19:14:59,313 - root - INFO - Requesting data for 2023-04-02
+2025-11-09 19:14:59,313 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-02'}
+2025-11-09 19:15:02,033 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:02,096 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:02,404 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:02,404 - root - INFO - 2023-04-02: inserted 8793 rows.
+2025-11-09 19:15:02,404 - root - INFO - Requesting data for 2023-04-03
+2025-11-09 19:15:02,404 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-03'}
+2025-11-09 19:15:04,936 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:04,990 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:05,246 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:05,246 - root - INFO - 2023-04-03: inserted 6976 rows.
+2025-11-09 19:15:05,246 - root - INFO - Requesting data for 2023-04-04
+2025-11-09 19:15:05,246 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-04'}
+2025-11-09 19:15:06,346 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:06,378 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:06,447 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:06,447 - root - INFO - 2023-04-04: inserted 1144 rows.
+2025-11-09 19:15:06,447 - root - INFO - Requesting data for 2023-04-05
+2025-11-09 19:15:06,447 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-05'}
+2025-11-09 19:15:08,907 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:08,967 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:09,260 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:09,260 - root - INFO - 2023-04-05: inserted 8258 rows.
+2025-11-09 19:15:09,260 - root - INFO - Requesting data for 2023-04-06
+2025-11-09 19:15:09,260 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-06'}
+2025-11-09 19:15:10,838 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:10,884 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:11,048 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:11,048 - root - INFO - 2023-04-06: inserted 4228 rows.
+2025-11-09 19:15:11,048 - root - INFO - Requesting data for 2023-04-07
+2025-11-09 19:15:11,048 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-07'}
+2025-11-09 19:15:12,128 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:12,157 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:12,230 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:12,230 - root - INFO - 2023-04-07: inserted 1529 rows.
+2025-11-09 19:15:12,230 - root - INFO - Requesting data for 2023-04-08
+2025-11-09 19:15:12,230 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-08'}
+2025-11-09 19:15:14,451 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:14,510 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:14,769 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:14,769 - root - INFO - 2023-04-08: inserted 7180 rows.
+2025-11-09 19:15:14,769 - root - INFO - Requesting data for 2023-04-09
+2025-11-09 19:15:14,769 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-09'}
+2025-11-09 19:15:15,881 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:15,919 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:16,006 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:16,006 - root - INFO - 2023-04-09: inserted 1845 rows.
+2025-11-09 19:15:16,006 - root - INFO - Requesting data for 2023-04-10
+2025-11-09 19:15:16,006 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-10'}
+2025-11-09 19:15:18,075 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:18,126 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:18,358 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:18,358 - root - INFO - 2023-04-10: inserted 6240 rows.
+2025-11-09 19:15:18,358 - root - INFO - Requesting data for 2023-04-11
+2025-11-09 19:15:18,358 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-11'}
+2025-11-09 19:15:21,288 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:21,351 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:21,671 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:21,671 - root - INFO - 2023-04-11: inserted 9049 rows.
+2025-11-09 19:15:21,671 - root - INFO - Requesting data for 2023-04-12
+2025-11-09 19:15:21,671 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-12'}
+2025-11-09 19:15:23,161 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:23,206 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:23,359 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:23,360 - root - INFO - 2023-04-12: inserted 3943 rows.
+2025-11-09 19:15:23,360 - root - INFO - Requesting data for 2023-04-13
+2025-11-09 19:15:23,360 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-13'}
+2025-11-09 19:15:24,725 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:24,756 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:24,848 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:24,848 - root - INFO - 2023-04-13: inserted 2051 rows.
+2025-11-09 19:15:24,848 - root - INFO - Requesting data for 2023-04-14
+2025-11-09 19:15:24,848 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-14'}
+2025-11-09 19:15:27,397 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:27,455 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:27,734 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:27,734 - root - INFO - 2023-04-14: inserted 7842 rows.
+2025-11-09 19:15:27,734 - root - INFO - Requesting data for 2023-04-15
+2025-11-09 19:15:27,734 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-15'}
+2025-11-09 19:15:29,630 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:29,676 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:29,886 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:29,887 - root - INFO - 2023-04-15: inserted 5736 rows.
+2025-11-09 19:15:29,887 - root - INFO - Requesting data for 2023-04-16
+2025-11-09 19:15:29,887 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-16'}
+2025-11-09 19:15:31,368 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:31,411 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:31,557 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:31,557 - root - INFO - 2023-04-16: inserted 3701 rows.
+2025-11-09 19:15:31,557 - root - INFO - Requesting data for 2023-04-17
+2025-11-09 19:15:31,557 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-17'}
+2025-11-09 19:15:32,891 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:32,928 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:33,049 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:33,049 - root - INFO - 2023-04-17: inserted 2995 rows.
+2025-11-09 19:15:33,049 - root - INFO - Requesting data for 2023-04-18
+2025-11-09 19:15:33,049 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-18'}
+2025-11-09 19:15:34,518 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:34,555 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:34,679 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:34,679 - root - INFO - 2023-04-18: inserted 3035 rows.
+2025-11-09 19:15:34,679 - root - INFO - Requesting data for 2023-04-19
+2025-11-09 19:15:34,679 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-19'}
+2025-11-09 19:15:36,955 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:37,013 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:37,277 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:37,277 - root - INFO - 2023-04-19: inserted 7310 rows.
+2025-11-09 19:15:37,277 - root - INFO - Requesting data for 2023-04-20
+2025-11-09 19:15:37,277 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-20'}
+2025-11-09 19:15:38,508 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:38,543 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:38,636 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:38,636 - root - INFO - 2023-04-20: inserted 1978 rows.
+2025-11-09 19:15:38,636 - root - INFO - Requesting data for 2023-04-21
+2025-11-09 19:15:38,636 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-21'}
+2025-11-09 19:15:41,568 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:41,629 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:41,947 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:41,948 - root - INFO - 2023-04-21: inserted 8802 rows.
+2025-11-09 19:15:41,948 - root - INFO - Requesting data for 2023-04-22
+2025-11-09 19:15:41,948 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-22'}
+2025-11-09 19:15:44,520 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:44,586 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:44,915 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:44,915 - root - INFO - 2023-04-22: inserted 9435 rows.
+2025-11-09 19:15:44,915 - root - INFO - Requesting data for 2023-04-23
+2025-11-09 19:15:44,915 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-23'}
+2025-11-09 19:15:45,684 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:45,712 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:45,771 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:45,771 - root - INFO - 2023-04-23: inserted 1019 rows.
+2025-11-09 19:15:45,772 - root - INFO - Requesting data for 2023-04-24
+2025-11-09 19:15:45,772 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-24'}
+2025-11-09 19:15:48,202 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:48,266 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:48,604 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:48,604 - root - INFO - 2023-04-24: inserted 9672 rows.
+2025-11-09 19:15:48,604 - root - INFO - Requesting data for 2023-04-25
+2025-11-09 19:15:48,604 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-25'}
+2025-11-09 19:15:50,292 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:50,343 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:50,561 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:50,561 - root - INFO - 2023-04-25: inserted 5858 rows.
+2025-11-09 19:15:50,561 - root - INFO - Requesting data for 2023-04-26
+2025-11-09 19:15:50,561 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-26'}
+2025-11-09 19:15:51,598 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:51,634 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:51,724 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:51,724 - root - INFO - 2023-04-26: inserted 1826 rows.
+2025-11-09 19:15:51,724 - root - INFO - Requesting data for 2023-04-27
+2025-11-09 19:15:51,724 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-27'}
+2025-11-09 19:15:53,156 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:53,197 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:53,327 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:53,327 - root - INFO - 2023-04-27: inserted 3305 rows.
+2025-11-09 19:15:53,327 - root - INFO - Requesting data for 2023-04-28
+2025-11-09 19:15:53,327 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-28'}
+2025-11-09 19:15:55,050 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:55,096 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:55,290 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:55,290 - root - INFO - 2023-04-28: inserted 5226 rows.
+2025-11-09 19:15:55,290 - root - INFO - Requesting data for 2023-04-29
+2025-11-09 19:15:55,290 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-29'}
+2025-11-09 19:15:56,333 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:56,372 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:56,460 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:56,460 - root - INFO - 2023-04-29: inserted 1813 rows.
+2025-11-09 19:15:56,460 - root - INFO - Requesting data for 2023-04-30
+2025-11-09 19:15:56,460 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-04-30'}
+2025-11-09 19:15:58,119 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:15:58,171 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:15:58,350 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:15:58,350 - root - INFO - 2023-04-30: inserted 4664 rows.
+2025-11-09 19:15:58,350 - root - INFO - Requesting data for 2023-05-01
+2025-11-09 19:15:58,350 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-01'}
+2025-11-09 19:16:00,313 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:00,364 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:00,605 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:00,605 - root - INFO - 2023-05-01: inserted 6704 rows.
+2025-11-09 19:16:00,605 - root - INFO - Requesting data for 2023-05-02
+2025-11-09 19:16:00,605 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-02'}
+2025-11-09 19:16:02,997 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:03,056 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:03,323 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:03,323 - root - INFO - 2023-05-02: inserted 7502 rows.
+2025-11-09 19:16:03,323 - root - INFO - Requesting data for 2023-05-03
+2025-11-09 19:16:03,323 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-03'}
+2025-11-09 19:16:06,147 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:06,210 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:06,501 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:06,501 - root - INFO - 2023-05-03: inserted 8161 rows.
+2025-11-09 19:16:06,501 - root - INFO - Requesting data for 2023-05-04
+2025-11-09 19:16:06,501 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-04'}
+2025-11-09 19:16:08,887 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:08,945 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:09,241 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:09,241 - root - INFO - 2023-05-04: inserted 8335 rows.
+2025-11-09 19:16:09,241 - root - INFO - Requesting data for 2023-05-05
+2025-11-09 19:16:09,241 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-05'}
+2025-11-09 19:16:11,561 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:11,626 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:11,961 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:11,961 - root - INFO - 2023-05-05: inserted 9503 rows.
+2025-11-09 19:16:11,961 - root - INFO - Requesting data for 2023-05-06
+2025-11-09 19:16:11,961 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-06'}
+2025-11-09 19:16:14,230 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:14,283 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:14,504 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:14,504 - root - INFO - 2023-05-06: inserted 6057 rows.
+2025-11-09 19:16:14,504 - root - INFO - Requesting data for 2023-05-07
+2025-11-09 19:16:14,504 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-07'}
+2025-11-09 19:16:17,296 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:17,356 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:17,634 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:17,634 - root - INFO - 2023-05-07: inserted 7670 rows.
+2025-11-09 19:16:17,634 - root - INFO - Requesting data for 2023-05-08
+2025-11-09 19:16:17,634 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-08'}
+2025-11-09 19:16:19,872 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:19,928 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:20,171 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:20,171 - root - INFO - 2023-05-08: inserted 6592 rows.
+2025-11-09 19:16:20,171 - root - INFO - Requesting data for 2023-05-09
+2025-11-09 19:16:20,171 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-09'}
+2025-11-09 19:16:22,160 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:22,213 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:22,424 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:22,424 - root - INFO - 2023-05-09: inserted 5651 rows.
+2025-11-09 19:16:22,424 - root - INFO - Requesting data for 2023-05-10
+2025-11-09 19:16:22,424 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-10'}
+2025-11-09 19:16:23,597 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:23,635 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:23,737 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:23,737 - root - INFO - 2023-05-10: inserted 2114 rows.
+2025-11-09 19:16:23,737 - root - INFO - Requesting data for 2023-05-11
+2025-11-09 19:16:23,737 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-11'}
+2025-11-09 19:16:25,522 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:25,564 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:25,774 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:25,774 - root - INFO - 2023-05-11: inserted 5336 rows.
+2025-11-09 19:16:25,774 - root - INFO - Requesting data for 2023-05-12
+2025-11-09 19:16:25,774 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-12'}
+2025-11-09 19:16:27,438 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:27,488 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:27,665 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:27,665 - root - INFO - 2023-05-12: inserted 4399 rows.
+2025-11-09 19:16:27,665 - root - INFO - Requesting data for 2023-05-13
+2025-11-09 19:16:27,665 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-13'}
+2025-11-09 19:16:29,808 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:29,868 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:30,144 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:30,144 - root - INFO - 2023-05-13: inserted 7495 rows.
+2025-11-09 19:16:30,144 - root - INFO - Requesting data for 2023-05-14
+2025-11-09 19:16:30,144 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-14'}
+2025-11-09 19:16:33,700 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:33,761 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:34,099 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:34,099 - root - INFO - 2023-05-14: inserted 9560 rows.
+2025-11-09 19:16:34,099 - root - INFO - Requesting data for 2023-05-15
+2025-11-09 19:16:34,099 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-15'}
+2025-11-09 19:16:35,621 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:35,664 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:35,798 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:35,798 - root - INFO - 2023-05-15: inserted 3168 rows.
+2025-11-09 19:16:35,798 - root - INFO - Requesting data for 2023-05-16
+2025-11-09 19:16:35,798 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-16'}
+2025-11-09 19:16:37,382 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:37,423 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:37,554 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:37,554 - root - INFO - 2023-05-16: inserted 3096 rows.
+2025-11-09 19:16:37,554 - root - INFO - Requesting data for 2023-05-17
+2025-11-09 19:16:37,554 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-17'}
+2025-11-09 19:16:39,463 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:39,506 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:39,675 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:39,675 - root - INFO - 2023-05-17: inserted 4487 rows.
+2025-11-09 19:16:39,675 - root - INFO - Requesting data for 2023-05-18
+2025-11-09 19:16:39,675 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-18'}
+2025-11-09 19:16:41,827 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:41,887 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:42,172 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:42,172 - root - INFO - 2023-05-18: inserted 7901 rows.
+2025-11-09 19:16:42,172 - root - INFO - Requesting data for 2023-05-19
+2025-11-09 19:16:42,172 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-19'}
+2025-11-09 19:16:43,941 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:43,989 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:44,192 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:44,192 - root - INFO - 2023-05-19: inserted 5532 rows.
+2025-11-09 19:16:44,192 - root - INFO - Requesting data for 2023-05-20
+2025-11-09 19:16:44,192 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-20'}
+2025-11-09 19:16:46,967 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:47,032 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:47,348 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:47,348 - root - INFO - 2023-05-20: inserted 9015 rows.
+2025-11-09 19:16:47,348 - root - INFO - Requesting data for 2023-05-21
+2025-11-09 19:16:47,348 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-21'}
+2025-11-09 19:16:49,182 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:49,233 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:49,432 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:49,433 - root - INFO - 2023-05-21: inserted 5309 rows.
+2025-11-09 19:16:49,433 - root - INFO - Requesting data for 2023-05-22
+2025-11-09 19:16:49,433 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-22'}
+2025-11-09 19:16:51,974 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:52,039 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:52,391 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:52,391 - root - INFO - 2023-05-22: inserted 9920 rows.
+2025-11-09 19:16:52,391 - root - INFO - Requesting data for 2023-05-23
+2025-11-09 19:16:52,391 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-23'}
+2025-11-09 19:16:53,948 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:53,989 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:54,136 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:54,136 - root - INFO - 2023-05-23: inserted 3834 rows.
+2025-11-09 19:16:54,136 - root - INFO - Requesting data for 2023-05-24
+2025-11-09 19:16:54,136 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-24'}
+2025-11-09 19:16:55,657 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:55,705 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:55,859 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:55,859 - root - INFO - 2023-05-24: inserted 4005 rows.
+2025-11-09 19:16:55,859 - root - INFO - Requesting data for 2023-05-25
+2025-11-09 19:16:55,859 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-25'}
+2025-11-09 19:16:57,220 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:57,255 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:57,370 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:57,370 - root - INFO - 2023-05-25: inserted 2746 rows.
+2025-11-09 19:16:57,370 - root - INFO - Requesting data for 2023-05-26
+2025-11-09 19:16:57,370 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-26'}
+2025-11-09 19:16:58,479 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:16:58,512 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:16:58,611 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:16:58,611 - root - INFO - 2023-05-26: inserted 2290 rows.
+2025-11-09 19:16:58,611 - root - INFO - Requesting data for 2023-05-27
+2025-11-09 19:16:58,611 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-27'}
+2025-11-09 19:17:01,073 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:01,139 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:01,737 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:01,737 - root - INFO - 2023-05-27: inserted 8988 rows.
+2025-11-09 19:17:01,737 - root - INFO - Requesting data for 2023-05-28
+2025-11-09 19:17:01,737 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-28'}
+2025-11-09 19:17:04,189 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:04,245 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:04,500 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:04,500 - root - INFO - 2023-05-28: inserted 7089 rows.
+2025-11-09 19:17:04,500 - root - INFO - Requesting data for 2023-05-29
+2025-11-09 19:17:04,500 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-29'}
+2025-11-09 19:17:05,540 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:05,574 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:05,648 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:05,648 - root - INFO - 2023-05-29: inserted 1498 rows.
+2025-11-09 19:17:05,648 - root - INFO - Requesting data for 2023-05-30
+2025-11-09 19:17:05,648 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-30'}
+2025-11-09 19:17:06,796 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:06,831 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:06,911 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:06,912 - root - INFO - 2023-05-30: inserted 1470 rows.
+2025-11-09 19:17:06,912 - root - INFO - Requesting data for 2023-05-31
+2025-11-09 19:17:06,912 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-05-31'}
+2025-11-09 19:17:08,679 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:08,730 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:08,925 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:08,925 - root - INFO - 2023-05-31: inserted 5214 rows.
+2025-11-09 19:17:08,925 - root - INFO - Requesting data for 2023-06-01
+2025-11-09 19:17:08,925 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-01'}
+2025-11-09 19:17:10,860 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:10,907 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:11,159 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:11,160 - root - INFO - 2023-06-01: inserted 6889 rows.
+2025-11-09 19:17:11,160 - root - INFO - Requesting data for 2023-06-02
+2025-11-09 19:17:11,160 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-02'}
+2025-11-09 19:17:12,878 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:12,921 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:13,084 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:13,084 - root - INFO - 2023-06-02: inserted 4117 rows.
+2025-11-09 19:17:13,084 - root - INFO - Requesting data for 2023-06-03
+2025-11-09 19:17:13,084 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-03'}
+2025-11-09 19:17:14,052 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:14,084 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:14,151 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:14,151 - root - INFO - 2023-06-03: inserted 1069 rows.
+2025-11-09 19:17:14,151 - root - INFO - Requesting data for 2023-06-04
+2025-11-09 19:17:14,151 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-04'}
+2025-11-09 19:17:16,650 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:16,714 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:17,035 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:17,035 - root - INFO - 2023-06-04: inserted 9116 rows.
+2025-11-09 19:17:17,035 - root - INFO - Requesting data for 2023-06-05
+2025-11-09 19:17:17,035 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-05'}
+2025-11-09 19:17:19,932 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:19,995 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:20,327 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:20,327 - root - INFO - 2023-06-05: inserted 8981 rows.
+2025-11-09 19:17:20,327 - root - INFO - Requesting data for 2023-06-06
+2025-11-09 19:17:20,327 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-06'}
+2025-11-09 19:17:22,442 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:22,500 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:22,764 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:22,764 - root - INFO - 2023-06-06: inserted 7424 rows.
+2025-11-09 19:17:22,764 - root - INFO - Requesting data for 2023-06-07
+2025-11-09 19:17:22,764 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-07'}
+2025-11-09 19:17:25,776 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:25,837 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:26,132 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:26,132 - root - INFO - 2023-06-07: inserted 8272 rows.
+2025-11-09 19:17:26,132 - root - INFO - Requesting data for 2023-06-08
+2025-11-09 19:17:26,132 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-08'}
+2025-11-09 19:17:28,383 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:28,437 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:28,739 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:28,739 - root - INFO - 2023-06-08: inserted 8485 rows.
+2025-11-09 19:17:28,739 - root - INFO - Requesting data for 2023-06-09
+2025-11-09 19:17:28,739 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-09'}
+2025-11-09 19:17:30,696 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:30,743 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:30,914 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:30,914 - root - INFO - 2023-06-09: inserted 4543 rows.
+2025-11-09 19:17:30,915 - root - INFO - Requesting data for 2023-06-10
+2025-11-09 19:17:30,915 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-10'}
+2025-11-09 19:17:32,216 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:32,257 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:32,378 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:32,378 - root - INFO - 2023-06-10: inserted 2873 rows.
+2025-11-09 19:17:32,378 - root - INFO - Requesting data for 2023-06-11
+2025-11-09 19:17:32,378 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-11'}
+2025-11-09 19:17:34,040 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:34,090 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:34,275 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:34,275 - root - INFO - 2023-06-11: inserted 4937 rows.
+2025-11-09 19:17:34,275 - root - INFO - Requesting data for 2023-06-12
+2025-11-09 19:17:34,275 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-12'}
+2025-11-09 19:17:35,303 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:35,334 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:35,419 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:35,420 - root - INFO - 2023-06-12: inserted 1703 rows.
+2025-11-09 19:17:35,420 - root - INFO - Requesting data for 2023-06-13
+2025-11-09 19:17:35,420 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-13'}
+2025-11-09 19:17:37,742 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:37,805 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:38,106 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:38,106 - root - INFO - 2023-06-13: inserted 8557 rows.
+2025-11-09 19:17:38,106 - root - INFO - Requesting data for 2023-06-14
+2025-11-09 19:17:38,106 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-14'}
+2025-11-09 19:17:40,310 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:40,357 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:40,561 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:40,561 - root - INFO - 2023-06-14: inserted 5469 rows.
+2025-11-09 19:17:40,561 - root - INFO - Requesting data for 2023-06-15
+2025-11-09 19:17:40,561 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-15'}
+2025-11-09 19:17:41,560 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:41,597 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:41,689 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:41,689 - root - INFO - 2023-06-15: inserted 1992 rows.
+2025-11-09 19:17:41,689 - root - INFO - Requesting data for 2023-06-16
+2025-11-09 19:17:41,689 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-16'}
+2025-11-09 19:17:44,349 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:44,413 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:44,730 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:44,730 - root - INFO - 2023-06-16: inserted 8951 rows.
+2025-11-09 19:17:44,730 - root - INFO - Requesting data for 2023-06-17
+2025-11-09 19:17:44,730 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-17'}
+2025-11-09 19:17:46,979 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:47,034 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:47,323 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:47,323 - root - INFO - 2023-06-17: inserted 8041 rows.
+2025-11-09 19:17:47,323 - root - INFO - Requesting data for 2023-06-18
+2025-11-09 19:17:47,323 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-18'}
+2025-11-09 19:17:49,666 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:49,723 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:50,031 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:50,031 - root - INFO - 2023-06-18: inserted 8723 rows.
+2025-11-09 19:17:50,031 - root - INFO - Requesting data for 2023-06-19
+2025-11-09 19:17:50,031 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-19'}
+2025-11-09 19:17:52,002 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:52,055 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:52,282 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:52,282 - root - INFO - 2023-06-19: inserted 6156 rows.
+2025-11-09 19:17:52,282 - root - INFO - Requesting data for 2023-06-20
+2025-11-09 19:17:52,282 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-20'}
+2025-11-09 19:17:54,423 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:54,471 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:54,670 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:54,670 - root - INFO - 2023-06-20: inserted 5356 rows.
+2025-11-09 19:17:54,670 - root - INFO - Requesting data for 2023-06-21
+2025-11-09 19:17:54,670 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-21'}
+2025-11-09 19:17:55,727 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:55,753 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:55,815 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:55,815 - root - INFO - 2023-06-21: inserted 1025 rows.
+2025-11-09 19:17:55,815 - root - INFO - Requesting data for 2023-06-22
+2025-11-09 19:17:55,815 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-22'}
+2025-11-09 19:17:58,032 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:17:58,083 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:17:58,361 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:17:58,361 - root - INFO - 2023-06-22: inserted 7772 rows.
+2025-11-09 19:17:58,361 - root - INFO - Requesting data for 2023-06-23
+2025-11-09 19:17:58,361 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-23'}
+2025-11-09 19:18:00,162 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:00,206 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:00,385 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:00,386 - root - INFO - 2023-06-23: inserted 4772 rows.
+2025-11-09 19:18:00,386 - root - INFO - Requesting data for 2023-06-24
+2025-11-09 19:18:00,386 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-24'}
+2025-11-09 19:18:02,865 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:02,921 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:03,165 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:03,165 - root - INFO - 2023-06-24: inserted 6741 rows.
+2025-11-09 19:18:03,165 - root - INFO - Requesting data for 2023-06-25
+2025-11-09 19:18:03,165 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-25'}
+2025-11-09 19:18:04,841 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:04,888 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:05,064 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:05,065 - root - INFO - 2023-06-25: inserted 4536 rows.
+2025-11-09 19:18:05,065 - root - INFO - Requesting data for 2023-06-26
+2025-11-09 19:18:05,065 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-26'}
+2025-11-09 19:18:07,607 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:07,660 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:07,924 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:07,924 - root - INFO - 2023-06-26: inserted 7374 rows.
+2025-11-09 19:18:07,925 - root - INFO - Requesting data for 2023-06-27
+2025-11-09 19:18:07,925 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-27'}
+2025-11-09 19:18:09,366 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:09,405 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:09,545 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:09,546 - root - INFO - 2023-06-27: inserted 3610 rows.
+2025-11-09 19:18:09,546 - root - INFO - Requesting data for 2023-06-28
+2025-11-09 19:18:09,546 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-28'}
+2025-11-09 19:18:12,081 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:12,148 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:12,504 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:12,504 - root - INFO - 2023-06-28: inserted 9959 rows.
+2025-11-09 19:18:12,504 - root - INFO - Requesting data for 2023-06-29
+2025-11-09 19:18:12,504 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-29'}
+2025-11-09 19:18:14,990 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:15,053 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:15,401 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:15,402 - root - INFO - 2023-06-29: inserted 9850 rows.
+2025-11-09 19:18:15,402 - root - INFO - Requesting data for 2023-06-30
+2025-11-09 19:18:15,402 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-06-30'}
+2025-11-09 19:18:17,000 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:17,030 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:17,111 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:17,111 - root - INFO - 2023-06-30: inserted 1645 rows.
+2025-11-09 19:18:17,111 - root - INFO - Requesting data for 2023-07-01
+2025-11-09 19:18:17,111 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-01'}
+2025-11-09 19:18:18,718 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:18,776 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:18,959 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:18,959 - root - INFO - 2023-07-01: inserted 4725 rows.
+2025-11-09 19:18:18,959 - root - INFO - Requesting data for 2023-07-02
+2025-11-09 19:18:18,959 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-02'}
+2025-11-09 19:18:20,728 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:20,771 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:20,939 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:20,939 - root - INFO - 2023-07-02: inserted 4408 rows.
+2025-11-09 19:18:20,939 - root - INFO - Requesting data for 2023-07-03
+2025-11-09 19:18:20,939 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-03'}
+2025-11-09 19:18:24,292 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:24,350 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:24,653 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:24,653 - root - INFO - 2023-07-03: inserted 8326 rows.
+2025-11-09 19:18:24,653 - root - INFO - Requesting data for 2023-07-04
+2025-11-09 19:18:24,653 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-04'}
+2025-11-09 19:18:26,334 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:26,380 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:26,557 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:26,557 - root - INFO - 2023-07-04: inserted 4240 rows.
+2025-11-09 19:18:26,557 - root - INFO - Requesting data for 2023-07-05
+2025-11-09 19:18:26,557 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-05'}
+2025-11-09 19:18:28,684 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:28,739 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:29,012 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:29,012 - root - INFO - 2023-07-05: inserted 7443 rows.
+2025-11-09 19:18:29,012 - root - INFO - Requesting data for 2023-07-06
+2025-11-09 19:18:29,012 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-06'}
+2025-11-09 19:18:30,748 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:30,793 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:30,971 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:30,971 - root - INFO - 2023-07-06: inserted 4432 rows.
+2025-11-09 19:18:30,971 - root - INFO - Requesting data for 2023-07-07
+2025-11-09 19:18:30,971 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-07'}
+2025-11-09 19:18:33,201 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:33,260 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:33,546 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:33,546 - root - INFO - 2023-07-07: inserted 7726 rows.
+2025-11-09 19:18:33,546 - root - INFO - Requesting data for 2023-07-08
+2025-11-09 19:18:33,546 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-08'}
+2025-11-09 19:18:35,565 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:35,620 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:35,864 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:35,864 - root - INFO - 2023-07-08: inserted 6462 rows.
+2025-11-09 19:18:35,864 - root - INFO - Requesting data for 2023-07-09
+2025-11-09 19:18:35,864 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-09'}
+2025-11-09 19:18:37,722 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:37,765 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:37,952 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:37,952 - root - INFO - 2023-07-09: inserted 5037 rows.
+2025-11-09 19:18:37,952 - root - INFO - Requesting data for 2023-07-10
+2025-11-09 19:18:37,953 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-10'}
+2025-11-09 19:18:39,691 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:39,736 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:39,918 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:39,918 - root - INFO - 2023-07-10: inserted 4444 rows.
+2025-11-09 19:18:39,918 - root - INFO - Requesting data for 2023-07-11
+2025-11-09 19:18:39,918 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-11'}
+2025-11-09 19:18:42,245 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:42,297 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:42,564 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:42,564 - root - INFO - 2023-07-11: inserted 7067 rows.
+2025-11-09 19:18:42,564 - root - INFO - Requesting data for 2023-07-12
+2025-11-09 19:18:42,564 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-12'}
+2025-11-09 19:18:45,008 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:45,076 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:45,408 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:45,408 - root - INFO - 2023-07-12: inserted 9168 rows.
+2025-11-09 19:18:45,408 - root - INFO - Requesting data for 2023-07-13
+2025-11-09 19:18:45,408 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-13'}
+2025-11-09 19:18:47,114 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:47,159 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:47,362 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:47,362 - root - INFO - 2023-07-13: inserted 5187 rows.
+2025-11-09 19:18:47,362 - root - INFO - Requesting data for 2023-07-14
+2025-11-09 19:18:47,362 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-14'}
+2025-11-09 19:18:49,224 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:49,272 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:49,463 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:49,463 - root - INFO - 2023-07-14: inserted 4565 rows.
+2025-11-09 19:18:49,463 - root - INFO - Requesting data for 2023-07-15
+2025-11-09 19:18:49,463 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-15'}
+2025-11-09 19:18:51,678 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:51,732 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:51,965 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:51,965 - root - INFO - 2023-07-15: inserted 6177 rows.
+2025-11-09 19:18:51,965 - root - INFO - Requesting data for 2023-07-16
+2025-11-09 19:18:51,965 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-16'}
+2025-11-09 19:18:53,477 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:53,521 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:53,662 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:53,662 - root - INFO - 2023-07-16: inserted 3308 rows.
+2025-11-09 19:18:53,662 - root - INFO - Requesting data for 2023-07-17
+2025-11-09 19:18:53,662 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-17'}
+2025-11-09 19:18:54,996 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:55,029 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:55,134 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:55,134 - root - INFO - 2023-07-17: inserted 2459 rows.
+2025-11-09 19:18:55,134 - root - INFO - Requesting data for 2023-07-18
+2025-11-09 19:18:55,134 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-18'}
+2025-11-09 19:18:56,240 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:56,273 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:56,361 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:56,361 - root - INFO - 2023-07-18: inserted 1857 rows.
+2025-11-09 19:18:56,361 - root - INFO - Requesting data for 2023-07-19
+2025-11-09 19:18:56,361 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-19'}
+2025-11-09 19:18:58,693 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:18:58,759 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:18:59,093 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:18:59,093 - root - INFO - 2023-07-19: inserted 9372 rows.
+2025-11-09 19:18:59,093 - root - INFO - Requesting data for 2023-07-20
+2025-11-09 19:18:59,093 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-20'}
+2025-11-09 19:19:01,358 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:01,420 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:01,735 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:01,735 - root - INFO - 2023-07-20: inserted 8832 rows.
+2025-11-09 19:19:01,735 - root - INFO - Requesting data for 2023-07-21
+2025-11-09 19:19:01,735 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-21'}
+2025-11-09 19:19:03,222 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:03,263 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:03,386 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:03,386 - root - INFO - 2023-07-21: inserted 2910 rows.
+2025-11-09 19:19:03,386 - root - INFO - Requesting data for 2023-07-22
+2025-11-09 19:19:03,386 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-22'}
+2025-11-09 19:19:05,898 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:05,952 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:06,194 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:06,195 - root - INFO - 2023-07-22: inserted 6619 rows.
+2025-11-09 19:19:06,195 - root - INFO - Requesting data for 2023-07-23
+2025-11-09 19:19:06,195 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-23'}
+2025-11-09 19:19:07,808 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:07,844 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:07,974 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:07,974 - root - INFO - 2023-07-23: inserted 3157 rows.
+2025-11-09 19:19:07,974 - root - INFO - Requesting data for 2023-07-24
+2025-11-09 19:19:07,974 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-24'}
+2025-11-09 19:19:09,820 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:09,891 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:10,059 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:10,059 - root - INFO - 2023-07-24: inserted 4540 rows.
+2025-11-09 19:19:10,059 - root - INFO - Requesting data for 2023-07-25
+2025-11-09 19:19:10,059 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-25'}
+2025-11-09 19:19:11,880 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:11,931 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:12,486 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:12,486 - root - INFO - 2023-07-25: inserted 5199 rows.
+2025-11-09 19:19:12,486 - root - INFO - Requesting data for 2023-07-26
+2025-11-09 19:19:12,486 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-26'}
+2025-11-09 19:19:14,999 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:15,064 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:15,715 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:15,715 - root - INFO - 2023-07-26: inserted 9869 rows.
+2025-11-09 19:19:15,715 - root - INFO - Requesting data for 2023-07-27
+2025-11-09 19:19:15,715 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-27'}
+2025-11-09 19:19:17,193 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:17,231 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:17,374 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:17,375 - root - INFO - 2023-07-27: inserted 3338 rows.
+2025-11-09 19:19:17,375 - root - INFO - Requesting data for 2023-07-28
+2025-11-09 19:19:17,375 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-28'}
+2025-11-09 19:19:18,298 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:18,326 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:18,393 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:18,393 - root - INFO - 2023-07-28: inserted 1172 rows.
+2025-11-09 19:19:18,393 - root - INFO - Requesting data for 2023-07-29
+2025-11-09 19:19:18,393 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-29'}
+2025-11-09 19:19:20,197 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:20,247 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:20,454 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:20,454 - root - INFO - 2023-07-29: inserted 5278 rows.
+2025-11-09 19:19:20,454 - root - INFO - Requesting data for 2023-07-30
+2025-11-09 19:19:20,454 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-30'}
+2025-11-09 19:19:23,870 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:23,933 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:24,289 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:24,289 - root - INFO - 2023-07-30: inserted 9787 rows.
+2025-11-09 19:19:24,289 - root - INFO - Requesting data for 2023-07-31
+2025-11-09 19:19:24,289 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-07-31'}
+2025-11-09 19:19:26,858 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:26,918 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:27,199 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:27,199 - root - INFO - 2023-07-31: inserted 7599 rows.
+2025-11-09 19:19:27,199 - root - INFO - Requesting data for 2023-08-01
+2025-11-09 19:19:27,199 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-01'}
+2025-11-09 19:19:29,787 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:29,840 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:30,110 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:30,110 - root - INFO - 2023-08-01: inserted 7349 rows.
+2025-11-09 19:19:30,110 - root - INFO - Requesting data for 2023-08-02
+2025-11-09 19:19:30,110 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-02'}
+2025-11-09 19:19:31,202 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:31,239 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:31,343 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:31,343 - root - INFO - 2023-08-02: inserted 1837 rows.
+2025-11-09 19:19:31,343 - root - INFO - Requesting data for 2023-08-03
+2025-11-09 19:19:31,343 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-03'}
+2025-11-09 19:19:33,917 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:33,992 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:34,308 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:34,308 - root - INFO - 2023-08-03: inserted 8848 rows.
+2025-11-09 19:19:34,308 - root - INFO - Requesting data for 2023-08-04
+2025-11-09 19:19:34,308 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-04'}
+2025-11-09 19:19:36,660 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:36,721 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:36,990 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:36,990 - root - INFO - 2023-08-04: inserted 7498 rows.
+2025-11-09 19:19:36,990 - root - INFO - Requesting data for 2023-08-05
+2025-11-09 19:19:36,990 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-05'}
+2025-11-09 19:19:38,635 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:38,682 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:38,863 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:38,863 - root - INFO - 2023-08-05: inserted 4728 rows.
+2025-11-09 19:19:38,863 - root - INFO - Requesting data for 2023-08-06
+2025-11-09 19:19:38,863 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-06'}
+2025-11-09 19:19:40,668 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:40,716 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:40,903 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:40,903 - root - INFO - 2023-08-06: inserted 4588 rows.
+2025-11-09 19:19:40,903 - root - INFO - Requesting data for 2023-08-07
+2025-11-09 19:19:40,903 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-07'}
+2025-11-09 19:19:41,864 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:41,900 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:41,983 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:41,983 - root - INFO - 2023-08-07: inserted 1374 rows.
+2025-11-09 19:19:41,983 - root - INFO - Requesting data for 2023-08-08
+2025-11-09 19:19:41,983 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-08'}
+2025-11-09 19:19:43,171 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:43,201 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:43,300 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:43,300 - root - INFO - 2023-08-08: inserted 2232 rows.
+2025-11-09 19:19:43,300 - root - INFO - Requesting data for 2023-08-09
+2025-11-09 19:19:43,300 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-09'}
+2025-11-09 19:19:45,060 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:45,105 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:45,250 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:45,250 - root - INFO - 2023-08-09: inserted 3377 rows.
+2025-11-09 19:19:45,250 - root - INFO - Requesting data for 2023-08-10
+2025-11-09 19:19:45,250 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-10'}
+2025-11-09 19:19:47,885 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:47,945 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:48,308 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:48,308 - root - INFO - 2023-08-10: inserted 9727 rows.
+2025-11-09 19:19:48,308 - root - INFO - Requesting data for 2023-08-11
+2025-11-09 19:19:48,308 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-11'}
+2025-11-09 19:19:50,293 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:50,346 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:50,594 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:50,594 - root - INFO - 2023-08-11: inserted 6407 rows.
+2025-11-09 19:19:50,594 - root - INFO - Requesting data for 2023-08-12
+2025-11-09 19:19:50,594 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-12'}
+2025-11-09 19:19:51,572 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:51,604 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:51,679 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:51,679 - root - INFO - 2023-08-12: inserted 1016 rows.
+2025-11-09 19:19:51,679 - root - INFO - Requesting data for 2023-08-13
+2025-11-09 19:19:51,679 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-13'}
+2025-11-09 19:19:54,168 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:54,224 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:54,557 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:54,558 - root - INFO - 2023-08-13: inserted 7234 rows.
+2025-11-09 19:19:54,558 - root - INFO - Requesting data for 2023-08-14
+2025-11-09 19:19:54,558 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-14'}
+2025-11-09 19:19:56,824 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:56,888 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:57,185 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:57,185 - root - INFO - 2023-08-14: inserted 7989 rows.
+2025-11-09 19:19:57,185 - root - INFO - Requesting data for 2023-08-15
+2025-11-09 19:19:57,185 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-15'}
+2025-11-09 19:19:59,396 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:19:59,456 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:19:59,746 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:19:59,746 - root - INFO - 2023-08-15: inserted 7722 rows.
+2025-11-09 19:19:59,746 - root - INFO - Requesting data for 2023-08-16
+2025-11-09 19:19:59,746 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-16'}
+2025-11-09 19:20:02,071 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:02,131 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:02,468 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:02,468 - root - INFO - 2023-08-16: inserted 9325 rows.
+2025-11-09 19:20:02,468 - root - INFO - Requesting data for 2023-08-17
+2025-11-09 19:20:02,468 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-17'}
+2025-11-09 19:20:03,650 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:03,689 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:03,780 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:03,780 - root - INFO - 2023-08-17: inserted 1839 rows.
+2025-11-09 19:20:03,780 - root - INFO - Requesting data for 2023-08-18
+2025-11-09 19:20:03,780 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-18'}
+2025-11-09 19:20:06,645 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:06,700 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:07,037 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:07,037 - root - INFO - 2023-08-18: inserted 9384 rows.
+2025-11-09 19:20:07,037 - root - INFO - Requesting data for 2023-08-19
+2025-11-09 19:20:07,037 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-19'}
+2025-11-09 19:20:09,649 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:09,707 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:10,170 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:10,170 - root - INFO - 2023-08-19: inserted 9505 rows.
+2025-11-09 19:20:10,170 - root - INFO - Requesting data for 2023-08-20
+2025-11-09 19:20:10,170 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-20'}
+2025-11-09 19:20:11,452 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:11,489 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:11,623 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:11,623 - root - INFO - 2023-08-20: inserted 2172 rows.
+2025-11-09 19:20:11,623 - root - INFO - Requesting data for 2023-08-21
+2025-11-09 19:20:11,623 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-21'}
+2025-11-09 19:20:13,125 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:13,166 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:13,331 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:13,331 - root - INFO - 2023-08-21: inserted 3250 rows.
+2025-11-09 19:20:13,331 - root - INFO - Requesting data for 2023-08-22
+2025-11-09 19:20:13,331 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-22'}
+2025-11-09 19:20:15,212 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:15,255 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:15,479 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:15,479 - root - INFO - 2023-08-22: inserted 5376 rows.
+2025-11-09 19:20:15,479 - root - INFO - Requesting data for 2023-08-23
+2025-11-09 19:20:15,479 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-23'}
+2025-11-09 19:20:16,778 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:16,816 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:16,924 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:16,924 - root - INFO - 2023-08-23: inserted 1928 rows.
+2025-11-09 19:20:16,924 - root - INFO - Requesting data for 2023-08-24
+2025-11-09 19:20:16,924 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-24'}
+2025-11-09 19:20:18,300 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:18,337 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:18,462 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:18,462 - root - INFO - 2023-08-24: inserted 2714 rows.
+2025-11-09 19:20:18,462 - root - INFO - Requesting data for 2023-08-25
+2025-11-09 19:20:18,462 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-25'}
+2025-11-09 19:20:20,572 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:20,627 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:20,930 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:20,930 - root - INFO - 2023-08-25: inserted 7089 rows.
+2025-11-09 19:20:20,930 - root - INFO - Requesting data for 2023-08-26
+2025-11-09 19:20:20,930 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-26'}
+2025-11-09 19:20:23,488 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:23,554 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:23,941 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:23,941 - root - INFO - 2023-08-26: inserted 9165 rows.
+2025-11-09 19:20:23,941 - root - INFO - Requesting data for 2023-08-27
+2025-11-09 19:20:23,941 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-27'}
+2025-11-09 19:20:26,874 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:26,924 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:27,245 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:27,245 - root - INFO - 2023-08-27: inserted 7711 rows.
+2025-11-09 19:20:27,245 - root - INFO - Requesting data for 2023-08-28
+2025-11-09 19:20:27,245 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-28'}
+2025-11-09 19:20:29,901 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:29,960 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:30,286 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:30,286 - root - INFO - 2023-08-28: inserted 7354 rows.
+2025-11-09 19:20:30,286 - root - INFO - Requesting data for 2023-08-29
+2025-11-09 19:20:30,286 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-29'}
+2025-11-09 19:20:31,946 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:31,990 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:32,190 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:32,190 - root - INFO - 2023-08-29: inserted 3972 rows.
+2025-11-09 19:20:32,190 - root - INFO - Requesting data for 2023-08-30
+2025-11-09 19:20:32,190 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-30'}
+2025-11-09 19:20:33,928 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:33,965 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:34,136 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:34,136 - root - INFO - 2023-08-30: inserted 3413 rows.
+2025-11-09 19:20:34,136 - root - INFO - Requesting data for 2023-08-31
+2025-11-09 19:20:34,136 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-08-31'}
+2025-11-09 19:20:36,245 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:36,294 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:36,579 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:36,579 - root - INFO - 2023-08-31: inserted 6458 rows.
+2025-11-09 19:20:36,579 - root - INFO - Requesting data for 2023-09-01
+2025-11-09 19:20:36,579 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-01'}
+2025-11-09 19:20:39,015 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:39,071 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:39,373 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:39,373 - root - INFO - 2023-09-01: inserted 6470 rows.
+2025-11-09 19:20:39,373 - root - INFO - Requesting data for 2023-09-02
+2025-11-09 19:20:39,373 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-02'}
+2025-11-09 19:20:41,920 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:41,972 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:42,317 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:42,317 - root - INFO - 2023-09-02: inserted 8300 rows.
+2025-11-09 19:20:42,317 - root - INFO - Requesting data for 2023-09-03
+2025-11-09 19:20:42,317 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-03'}
+2025-11-09 19:20:43,680 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:43,715 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:43,855 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:43,855 - root - INFO - 2023-09-03: inserted 2521 rows.
+2025-11-09 19:20:43,855 - root - INFO - Requesting data for 2023-09-04
+2025-11-09 19:20:43,855 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-04'}
+2025-11-09 19:20:45,651 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:45,711 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:45,923 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:45,923 - root - INFO - 2023-09-04: inserted 5163 rows.
+2025-11-09 19:20:45,923 - root - INFO - Requesting data for 2023-09-05
+2025-11-09 19:20:45,923 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-05'}
+2025-11-09 19:20:48,215 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:48,274 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:48,590 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:48,590 - root - INFO - 2023-09-05: inserted 7785 rows.
+2025-11-09 19:20:48,590 - root - INFO - Requesting data for 2023-09-06
+2025-11-09 19:20:48,590 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-06'}
+2025-11-09 19:20:50,190 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:50,224 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:50,394 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:50,395 - root - INFO - 2023-09-06: inserted 3681 rows.
+2025-11-09 19:20:50,395 - root - INFO - Requesting data for 2023-09-07
+2025-11-09 19:20:50,395 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-07'}
+2025-11-09 19:20:52,014 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:52,060 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:52,247 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:52,247 - root - INFO - 2023-09-07: inserted 4095 rows.
+2025-11-09 19:20:52,247 - root - INFO - Requesting data for 2023-09-08
+2025-11-09 19:20:52,247 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-08'}
+2025-11-09 19:20:53,611 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:53,645 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:53,778 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:53,778 - root - INFO - 2023-09-08: inserted 2713 rows.
+2025-11-09 19:20:53,778 - root - INFO - Requesting data for 2023-09-09
+2025-11-09 19:20:53,778 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-09'}
+2025-11-09 19:20:55,034 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:55,074 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:55,208 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:55,208 - root - INFO - 2023-09-09: inserted 2462 rows.
+2025-11-09 19:20:55,208 - root - INFO - Requesting data for 2023-09-10
+2025-11-09 19:20:55,208 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-10'}
+2025-11-09 19:20:57,342 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:20:57,396 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:20:57,664 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:20:57,664 - root - INFO - 2023-09-10: inserted 6290 rows.
+2025-11-09 19:20:57,664 - root - INFO - Requesting data for 2023-09-11
+2025-11-09 19:20:57,664 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-11'}
+2025-11-09 19:21:00,029 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:00,090 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:00,474 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:00,474 - root - INFO - 2023-09-11: inserted 8254 rows.
+2025-11-09 19:21:00,474 - root - INFO - Requesting data for 2023-09-12
+2025-11-09 19:21:00,474 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-12'}
+2025-11-09 19:21:02,020 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:02,064 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:02,261 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:02,261 - root - INFO - 2023-09-12: inserted 3521 rows.
+2025-11-09 19:21:02,261 - root - INFO - Requesting data for 2023-09-13
+2025-11-09 19:21:02,261 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-13'}
+2025-11-09 19:21:04,300 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:04,353 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:04,646 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:04,646 - root - INFO - 2023-09-13: inserted 6069 rows.
+2025-11-09 19:21:04,646 - root - INFO - Requesting data for 2023-09-14
+2025-11-09 19:21:04,646 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-14'}
+2025-11-09 19:21:08,334 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:08,403 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:08,864 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:08,864 - root - INFO - 2023-09-14: inserted 9989 rows.
+2025-11-09 19:21:08,864 - root - INFO - Requesting data for 2023-09-15
+2025-11-09 19:21:08,864 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-15'}
+2025-11-09 19:21:11,318 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:11,385 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:11,887 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:11,888 - root - INFO - 2023-09-15: inserted 9546 rows.
+2025-11-09 19:21:11,888 - root - INFO - Requesting data for 2023-09-16
+2025-11-09 19:21:11,888 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-16'}
+2025-11-09 19:21:14,585 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:14,653 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:15,115 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:15,115 - root - INFO - 2023-09-16: inserted 9814 rows.
+2025-11-09 19:21:15,115 - root - INFO - Requesting data for 2023-09-17
+2025-11-09 19:21:15,115 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-17'}
+2025-11-09 19:21:18,022 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:18,078 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:18,467 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:18,467 - root - INFO - 2023-09-17: inserted 7020 rows.
+2025-11-09 19:21:18,467 - root - INFO - Requesting data for 2023-09-18
+2025-11-09 19:21:18,467 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-18'}
+2025-11-09 19:21:21,765 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:21,825 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:22,351 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:22,351 - root - INFO - 2023-09-18: inserted 9907 rows.
+2025-11-09 19:21:22,351 - root - INFO - Requesting data for 2023-09-19
+2025-11-09 19:21:22,351 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-19'}
+2025-11-09 19:21:24,834 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:24,902 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:25,442 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:25,442 - root - INFO - 2023-09-19: inserted 9752 rows.
+2025-11-09 19:21:25,442 - root - INFO - Requesting data for 2023-09-20
+2025-11-09 19:21:25,442 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-20'}
+2025-11-09 19:21:26,495 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:26,533 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:26,666 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:26,666 - root - INFO - 2023-09-20: inserted 1936 rows.
+2025-11-09 19:21:26,666 - root - INFO - Requesting data for 2023-09-21
+2025-11-09 19:21:26,666 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-21'}
+2025-11-09 19:21:27,794 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:27,829 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:27,942 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:27,942 - root - INFO - 2023-09-21: inserted 1897 rows.
+2025-11-09 19:21:27,942 - root - INFO - Requesting data for 2023-09-22
+2025-11-09 19:21:27,942 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-22'}
+2025-11-09 19:21:30,283 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:30,333 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:30,659 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:30,659 - root - INFO - 2023-09-22: inserted 7337 rows.
+2025-11-09 19:21:30,659 - root - INFO - Requesting data for 2023-09-23
+2025-11-09 19:21:30,659 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-23'}
+2025-11-09 19:21:32,865 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:32,914 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:33,191 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:33,192 - root - INFO - 2023-09-23: inserted 6578 rows.
+2025-11-09 19:21:33,192 - root - INFO - Requesting data for 2023-09-24
+2025-11-09 19:21:33,192 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-24'}
+2025-11-09 19:21:34,899 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:34,946 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:35,167 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:35,167 - root - INFO - 2023-09-24: inserted 5319 rows.
+2025-11-09 19:21:35,167 - root - INFO - Requesting data for 2023-09-25
+2025-11-09 19:21:35,167 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-25'}
+2025-11-09 19:21:37,337 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:37,387 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:37,665 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:37,665 - root - INFO - 2023-09-25: inserted 5895 rows.
+2025-11-09 19:21:37,665 - root - INFO - Requesting data for 2023-09-26
+2025-11-09 19:21:37,665 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-26'}
+2025-11-09 19:21:39,006 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:39,047 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:39,230 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:39,230 - root - INFO - 2023-09-26: inserted 2548 rows.
+2025-11-09 19:21:39,230 - root - INFO - Requesting data for 2023-09-27
+2025-11-09 19:21:39,230 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-27'}
+2025-11-09 19:21:41,629 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:41,671 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:41,899 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:41,899 - root - INFO - 2023-09-27: inserted 4011 rows.
+2025-11-09 19:21:41,899 - root - INFO - Requesting data for 2023-09-28
+2025-11-09 19:21:41,899 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-28'}
+2025-11-09 19:21:43,662 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:43,706 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:43,944 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:43,944 - root - INFO - 2023-09-28: inserted 4458 rows.
+2025-11-09 19:21:43,944 - root - INFO - Requesting data for 2023-09-29
+2025-11-09 19:21:43,944 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-29'}
+2025-11-09 19:21:46,498 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:46,556 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:47,035 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:47,035 - root - INFO - 2023-09-29: inserted 9630 rows.
+2025-11-09 19:21:47,035 - root - INFO - Requesting data for 2023-09-30
+2025-11-09 19:21:47,035 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-09-30'}
+2025-11-09 19:21:49,292 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:49,356 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:49,795 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:49,795 - root - INFO - 2023-09-30: inserted 8459 rows.
+2025-11-09 19:21:49,795 - root - INFO - Requesting data for 2023-10-01
+2025-11-09 19:21:49,795 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-01'}
+2025-11-09 19:21:50,780 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:50,817 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:50,940 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:50,940 - root - INFO - 2023-10-01: inserted 1852 rows.
+2025-11-09 19:21:50,940 - root - INFO - Requesting data for 2023-10-02
+2025-11-09 19:21:50,940 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-02'}
+2025-11-09 19:21:53,041 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:53,101 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:53,538 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:53,539 - root - INFO - 2023-10-02: inserted 7832 rows.
+2025-11-09 19:21:53,539 - root - INFO - Requesting data for 2023-10-03
+2025-11-09 19:21:53,539 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-03'}
+2025-11-09 19:21:55,481 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:55,535 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:55,879 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:55,879 - root - INFO - 2023-10-03: inserted 6698 rows.
+2025-11-09 19:21:55,879 - root - INFO - Requesting data for 2023-10-04
+2025-11-09 19:21:55,879 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-04'}
+2025-11-09 19:21:57,703 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:57,754 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:21:57,996 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:21:57,996 - root - INFO - 2023-10-04: inserted 5155 rows.
+2025-11-09 19:21:57,996 - root - INFO - Requesting data for 2023-10-05
+2025-11-09 19:21:57,996 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-05'}
+2025-11-09 19:21:59,746 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:21:59,797 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:00,076 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:00,076 - root - INFO - 2023-10-05: inserted 4920 rows.
+2025-11-09 19:22:00,076 - root - INFO - Requesting data for 2023-10-06
+2025-11-09 19:22:00,076 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-06'}
+2025-11-09 19:22:02,647 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:02,712 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:03,232 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:03,232 - root - INFO - 2023-10-06: inserted 9203 rows.
+2025-11-09 19:22:03,232 - root - INFO - Requesting data for 2023-10-07
+2025-11-09 19:22:03,232 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-07'}
+2025-11-09 19:22:04,408 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:04,448 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:04,593 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:04,593 - root - INFO - 2023-10-07: inserted 2276 rows.
+2025-11-09 19:22:04,593 - root - INFO - Requesting data for 2023-10-08
+2025-11-09 19:22:04,593 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-08'}
+2025-11-09 19:22:06,575 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:06,627 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:06,963 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:06,963 - root - INFO - 2023-10-08: inserted 6099 rows.
+2025-11-09 19:22:06,963 - root - INFO - Requesting data for 2023-10-09
+2025-11-09 19:22:06,963 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-09'}
+2025-11-09 19:22:09,749 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:09,819 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:11,217 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:11,217 - root - INFO - 2023-10-09: inserted 9478 rows.
+2025-11-09 19:22:11,217 - root - INFO - Requesting data for 2023-10-10
+2025-11-09 19:22:11,217 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-10'}
+2025-11-09 19:22:12,894 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:12,953 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:13,574 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:13,574 - root - INFO - 2023-10-10: inserted 4756 rows.
+2025-11-09 19:22:13,575 - root - INFO - Requesting data for 2023-10-11
+2025-11-09 19:22:13,575 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-11'}
+2025-11-09 19:22:14,992 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:15,042 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:15,311 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:15,311 - root - INFO - 2023-10-11: inserted 4089 rows.
+2025-11-09 19:22:15,311 - root - INFO - Requesting data for 2023-10-12
+2025-11-09 19:22:15,311 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-12'}
+2025-11-09 19:22:17,218 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:17,262 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:17,614 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:17,614 - root - INFO - 2023-10-12: inserted 5719 rows.
+2025-11-09 19:22:17,614 - root - INFO - Requesting data for 2023-10-13
+2025-11-09 19:22:17,614 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-13'}
+2025-11-09 19:22:18,842 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:18,884 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:19,065 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:19,065 - root - INFO - 2023-10-13: inserted 2821 rows.
+2025-11-09 19:22:19,065 - root - INFO - Requesting data for 2023-10-14
+2025-11-09 19:22:19,065 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-14'}
+2025-11-09 19:22:20,966 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:21,018 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:21,347 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:21,347 - root - INFO - 2023-10-14: inserted 5985 rows.
+2025-11-09 19:22:21,347 - root - INFO - Requesting data for 2023-10-15
+2025-11-09 19:22:21,347 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-15'}
+2025-11-09 19:22:23,129 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:23,179 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:23,509 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:23,509 - root - INFO - 2023-10-15: inserted 5092 rows.
+2025-11-09 19:22:23,509 - root - INFO - Requesting data for 2023-10-16
+2025-11-09 19:22:23,509 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-16'}
+2025-11-09 19:22:24,909 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:24,952 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:25,128 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:25,129 - root - INFO - 2023-10-16: inserted 2921 rows.
+2025-11-09 19:22:25,129 - root - INFO - Requesting data for 2023-10-17
+2025-11-09 19:22:25,129 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-17'}
+2025-11-09 19:22:26,912 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:26,962 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:27,246 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:27,246 - root - INFO - 2023-10-17: inserted 5101 rows.
+2025-11-09 19:22:27,246 - root - INFO - Requesting data for 2023-10-18
+2025-11-09 19:22:27,246 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-18'}
+2025-11-09 19:22:28,159 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:28,192 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:28,291 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:28,291 - root - INFO - 2023-10-18: inserted 1414 rows.
+2025-11-09 19:22:28,291 - root - INFO - Requesting data for 2023-10-19
+2025-11-09 19:22:28,291 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-19'}
+2025-11-09 19:22:30,011 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:30,056 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:30,268 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:30,268 - root - INFO - 2023-10-19: inserted 4199 rows.
+2025-11-09 19:22:30,268 - root - INFO - Requesting data for 2023-10-20
+2025-11-09 19:22:30,268 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-20'}
+2025-11-09 19:22:33,587 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:33,656 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:34,096 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:34,096 - root - INFO - 2023-10-20: inserted 9393 rows.
+2025-11-09 19:22:34,096 - root - INFO - Requesting data for 2023-10-21
+2025-11-09 19:22:34,096 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-21'}
+2025-11-09 19:22:35,108 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:35,143 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:35,237 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:35,237 - root - INFO - 2023-10-21: inserted 1670 rows.
+2025-11-09 19:22:35,237 - root - INFO - Requesting data for 2023-10-22
+2025-11-09 19:22:35,237 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-22'}
+2025-11-09 19:22:37,849 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:37,916 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:38,378 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:38,379 - root - INFO - 2023-10-22: inserted 9817 rows.
+2025-11-09 19:22:38,379 - root - INFO - Requesting data for 2023-10-23
+2025-11-09 19:22:38,379 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-23'}
+2025-11-09 19:22:40,567 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:40,622 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:40,969 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:40,969 - root - INFO - 2023-10-23: inserted 7166 rows.
+2025-11-09 19:22:40,969 - root - INFO - Requesting data for 2023-10-24
+2025-11-09 19:22:40,969 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-24'}
+2025-11-09 19:22:42,803 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:42,854 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:43,119 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:43,119 - root - INFO - 2023-10-24: inserted 5243 rows.
+2025-11-09 19:22:43,119 - root - INFO - Requesting data for 2023-10-25
+2025-11-09 19:22:43,119 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-25'}
+2025-11-09 19:22:45,226 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:45,274 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:45,542 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:45,542 - root - INFO - 2023-10-25: inserted 5903 rows.
+2025-11-09 19:22:45,542 - root - INFO - Requesting data for 2023-10-26
+2025-11-09 19:22:45,542 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-26'}
+2025-11-09 19:22:47,868 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:47,927 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:48,465 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:48,466 - root - INFO - 2023-10-26: inserted 9442 rows.
+2025-11-09 19:22:48,466 - root - INFO - Requesting data for 2023-10-27
+2025-11-09 19:22:48,466 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-27'}
+2025-11-09 19:22:50,633 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:50,683 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:51,059 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:51,059 - root - INFO - 2023-10-27: inserted 7393 rows.
+2025-11-09 19:22:51,059 - root - INFO - Requesting data for 2023-10-28
+2025-11-09 19:22:51,059 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-28'}
+2025-11-09 19:22:52,643 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:52,685 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:52,925 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:52,925 - root - INFO - 2023-10-28: inserted 4595 rows.
+2025-11-09 19:22:52,925 - root - INFO - Requesting data for 2023-10-29
+2025-11-09 19:22:52,925 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-29'}
+2025-11-09 19:22:54,249 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:22:54,283 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:22:54,664 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:22:54,664 - root - INFO - 2023-10-29: inserted 3563 rows.
+2025-11-09 19:22:54,664 - root - INFO - Requesting data for 2023-10-30
+2025-11-09 19:22:54,664 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-30'}
+2025-11-09 19:24:27,661 - root - ERROR - fetch_raw: ('Connection broken: IncompleteRead(9281 bytes read, 959 more expected)', IncompleteRead(9281 bytes read, 959 more expected))
+2025-11-09 19:24:27,670 - root - INFO - 2023-10-30: no data returned from API.
+2025-11-09 19:24:27,670 - root - INFO - Requesting data for 2023-10-31
+2025-11-09 19:24:27,670 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-10-31'}
+2025-11-09 19:24:29,055 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:29,091 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:29,319 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:29,320 - root - INFO - 2023-10-31: inserted 2760 rows.
+2025-11-09 19:24:29,320 - root - INFO - Requesting data for 2023-11-01
+2025-11-09 19:24:29,320 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-01'}
+2025-11-09 19:24:30,740 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:30,783 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:31,037 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:31,037 - root - INFO - 2023-11-01: inserted 3021 rows.
+2025-11-09 19:24:31,037 - root - INFO - Requesting data for 2023-11-02
+2025-11-09 19:24:31,037 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-02'}
+2025-11-09 19:24:32,212 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:32,251 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:32,462 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:32,462 - root - INFO - 2023-11-02: inserted 2525 rows.
+2025-11-09 19:24:32,462 - root - INFO - Requesting data for 2023-11-03
+2025-11-09 19:24:32,462 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-03'}
+2025-11-09 19:24:33,338 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:33,371 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:33,492 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:33,492 - root - INFO - 2023-11-03: inserted 1013 rows.
+2025-11-09 19:24:33,492 - root - INFO - Requesting data for 2023-11-04
+2025-11-09 19:24:33,492 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-04'}
+2025-11-09 19:24:35,722 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:35,777 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:36,429 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:36,429 - root - INFO - 2023-11-04: inserted 7729 rows.
+2025-11-09 19:24:36,429 - root - INFO - Requesting data for 2023-11-05
+2025-11-09 19:24:36,429 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-05'}
+2025-11-09 19:24:38,993 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:39,062 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:39,744 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:39,744 - root - INFO - 2023-11-05: inserted 9864 rows.
+2025-11-09 19:24:39,744 - root - INFO - Requesting data for 2023-11-06
+2025-11-09 19:24:39,744 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-06'}
+2025-11-09 19:24:42,018 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:42,076 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:42,613 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:42,613 - root - INFO - 2023-11-06: inserted 7314 rows.
+2025-11-09 19:24:42,613 - root - INFO - Requesting data for 2023-11-07
+2025-11-09 19:24:42,613 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-07'}
+2025-11-09 19:24:44,520 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:44,569 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:44,947 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:44,947 - root - INFO - 2023-11-07: inserted 5968 rows.
+2025-11-09 19:24:44,947 - root - INFO - Requesting data for 2023-11-08
+2025-11-09 19:24:44,947 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-08'}
+2025-11-09 19:24:46,838 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:46,900 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:47,254 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:47,254 - root - INFO - 2023-11-08: inserted 6494 rows.
+2025-11-09 19:24:47,254 - root - INFO - Requesting data for 2023-11-09
+2025-11-09 19:24:47,254 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-09'}
+2025-11-09 19:24:50,162 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:50,231 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:50,768 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:50,768 - root - INFO - 2023-11-09: inserted 9834 rows.
+2025-11-09 19:24:50,768 - root - INFO - Requesting data for 2023-11-10
+2025-11-09 19:24:50,768 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-10'}
+2025-11-09 19:24:52,109 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:52,155 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:52,337 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:52,337 - root - INFO - 2023-11-10: inserted 3247 rows.
+2025-11-09 19:24:52,337 - root - INFO - Requesting data for 2023-11-11
+2025-11-09 19:24:52,337 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-11'}
+2025-11-09 19:24:53,345 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:53,379 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:53,540 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:53,541 - root - INFO - 2023-11-11: inserted 1676 rows.
+2025-11-09 19:24:53,541 - root - INFO - Requesting data for 2023-11-12
+2025-11-09 19:24:53,541 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-12'}
+2025-11-09 19:24:54,461 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:54,491 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:54,614 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:54,614 - root - INFO - 2023-11-12: inserted 1104 rows.
+2025-11-09 19:24:54,614 - root - INFO - Requesting data for 2023-11-13
+2025-11-09 19:24:54,614 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-13'}
+2025-11-09 19:24:55,771 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:55,810 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:55,999 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:55,999 - root - INFO - 2023-11-13: inserted 2459 rows.
+2025-11-09 19:24:55,999 - root - INFO - Requesting data for 2023-11-14
+2025-11-09 19:24:55,999 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-14'}
+2025-11-09 19:24:57,750 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:57,797 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:58,158 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:58,158 - root - INFO - 2023-11-14: inserted 4421 rows.
+2025-11-09 19:24:58,158 - root - INFO - Requesting data for 2023-11-15
+2025-11-09 19:24:58,158 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-15'}
+2025-11-09 19:24:59,528 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:24:59,573 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:24:59,812 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:24:59,812 - root - INFO - 2023-11-15: inserted 3556 rows.
+2025-11-09 19:24:59,812 - root - INFO - Requesting data for 2023-11-16
+2025-11-09 19:24:59,812 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-16'}
+2025-11-09 19:25:00,867 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:00,900 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:01,040 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:01,040 - root - INFO - 2023-11-16: inserted 1612 rows.
+2025-11-09 19:25:01,040 - root - INFO - Requesting data for 2023-11-17
+2025-11-09 19:25:01,040 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-17'}
+2025-11-09 19:25:02,784 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:02,828 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:03,087 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:03,087 - root - INFO - 2023-11-17: inserted 3427 rows.
+2025-11-09 19:25:03,087 - root - INFO - Requesting data for 2023-11-18
+2025-11-09 19:25:03,087 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-18'}
+2025-11-09 19:25:04,084 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:04,117 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:04,229 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:04,229 - root - INFO - 2023-11-18: inserted 1041 rows.
+2025-11-09 19:25:04,229 - root - INFO - Requesting data for 2023-11-19
+2025-11-09 19:25:04,229 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-19'}
+2025-11-09 19:25:06,735 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:06,801 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:07,505 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:07,505 - root - INFO - 2023-11-19: inserted 9303 rows.
+2025-11-09 19:25:07,505 - root - INFO - Requesting data for 2023-11-20
+2025-11-09 19:25:07,505 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-20'}
+2025-11-09 19:25:09,755 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:09,788 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:09,934 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:09,934 - root - INFO - 2023-11-20: inserted 1360 rows.
+2025-11-09 19:25:09,934 - root - INFO - Requesting data for 2023-11-21
+2025-11-09 19:25:09,934 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-21'}
+2025-11-09 19:25:13,271 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:13,335 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:13,997 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:13,998 - root - INFO - 2023-11-21: inserted 8477 rows.
+2025-11-09 19:25:13,998 - root - INFO - Requesting data for 2023-11-22
+2025-11-09 19:25:13,998 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-22'}
+2025-11-09 19:25:17,213 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:17,280 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:17,964 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:17,964 - root - INFO - 2023-11-22: inserted 9578 rows.
+2025-11-09 19:25:17,964 - root - INFO - Requesting data for 2023-11-23
+2025-11-09 19:25:17,964 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-23'}
+2025-11-09 19:25:19,637 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:19,676 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:20,101 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:20,101 - root - INFO - 2023-11-23: inserted 4727 rows.
+2025-11-09 19:25:20,101 - root - INFO - Requesting data for 2023-11-24
+2025-11-09 19:25:20,101 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-24'}
+2025-11-09 19:25:21,514 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:21,558 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:21,819 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:21,819 - root - INFO - 2023-11-24: inserted 3400 rows.
+2025-11-09 19:25:21,819 - root - INFO - Requesting data for 2023-11-25
+2025-11-09 19:25:21,819 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-25'}
+2025-11-09 19:25:23,032 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:23,062 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:23,252 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:23,252 - root - INFO - 2023-11-25: inserted 2318 rows.
+2025-11-09 19:25:23,252 - root - INFO - Requesting data for 2023-11-26
+2025-11-09 19:25:23,252 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-26'}
+2025-11-09 19:25:24,449 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:24,486 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:24,644 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:24,644 - root - INFO - 2023-11-26: inserted 2025 rows.
+2025-11-09 19:25:24,644 - root - INFO - Requesting data for 2023-11-27
+2025-11-09 19:25:24,644 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-27'}
+2025-11-09 19:25:26,474 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:26,521 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:26,827 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:26,828 - root - INFO - 2023-11-27: inserted 3983 rows.
+2025-11-09 19:25:26,828 - root - INFO - Requesting data for 2023-11-28
+2025-11-09 19:25:26,828 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-28'}
+2025-11-09 19:25:28,589 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:28,639 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:29,032 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:29,032 - root - INFO - 2023-11-28: inserted 4953 rows.
+2025-11-09 19:25:29,032 - root - INFO - Requesting data for 2023-11-29
+2025-11-09 19:25:29,032 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-29'}
+2025-11-09 19:25:30,928 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:30,979 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:31,364 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:31,364 - root - INFO - 2023-11-29: inserted 5452 rows.
+2025-11-09 19:25:31,364 - root - INFO - Requesting data for 2023-11-30
+2025-11-09 19:25:31,364 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-11-30'}
+2025-11-09 19:25:33,122 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:33,172 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:33,515 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:33,515 - root - INFO - 2023-11-30: inserted 5055 rows.
+2025-11-09 19:25:33,515 - root - INFO - Requesting data for 2023-12-01
+2025-11-09 19:25:33,515 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-01'}
+2025-11-09 19:25:36,090 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:36,149 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:36,747 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:36,747 - root - INFO - 2023-12-01: inserted 7629 rows.
+2025-11-09 19:25:36,747 - root - INFO - Requesting data for 2023-12-02
+2025-11-09 19:25:36,747 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-02'}
+2025-11-09 19:25:39,083 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:39,137 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:39,547 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:39,547 - root - INFO - 2023-12-02: inserted 6003 rows.
+2025-11-09 19:25:39,547 - root - INFO - Requesting data for 2023-12-03
+2025-11-09 19:25:39,547 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-03'}
+2025-11-09 19:25:42,845 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:42,913 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:43,449 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:43,450 - root - INFO - 2023-12-03: inserted 9571 rows.
+2025-11-09 19:25:43,450 - root - INFO - Requesting data for 2023-12-04
+2025-11-09 19:25:43,450 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-04'}
+2025-11-09 19:25:44,614 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:44,652 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:44,802 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:44,802 - root - INFO - 2023-12-04: inserted 2491 rows.
+2025-11-09 19:25:44,802 - root - INFO - Requesting data for 2023-12-05
+2025-11-09 19:25:44,802 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-05'}
+2025-11-09 19:25:47,483 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:47,566 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:47,986 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:47,986 - root - INFO - 2023-12-05: inserted 8660 rows.
+2025-11-09 19:25:47,986 - root - INFO - Requesting data for 2023-12-06
+2025-11-09 19:25:47,986 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-06'}
+2025-11-09 19:25:49,925 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:49,983 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:50,262 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:50,262 - root - INFO - 2023-12-06: inserted 6288 rows.
+2025-11-09 19:25:50,262 - root - INFO - Requesting data for 2023-12-07
+2025-11-09 19:25:50,262 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-07'}
+2025-11-09 19:25:51,791 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:51,835 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:52,003 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:52,003 - root - INFO - 2023-12-07: inserted 3631 rows.
+2025-11-09 19:25:52,003 - root - INFO - Requesting data for 2023-12-08
+2025-11-09 19:25:52,003 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-08'}
+2025-11-09 19:25:54,548 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:54,606 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:55,008 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:55,008 - root - INFO - 2023-12-08: inserted 9970 rows.
+2025-11-09 19:25:55,008 - root - INFO - Requesting data for 2023-12-09
+2025-11-09 19:25:55,008 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-09'}
+2025-11-09 19:25:57,783 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:57,848 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:58,244 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:58,244 - root - INFO - 2023-12-09: inserted 9147 rows.
+2025-11-09 19:25:58,244 - root - INFO - Requesting data for 2023-12-10
+2025-11-09 19:25:58,244 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-10'}
+2025-11-09 19:25:59,366 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:25:59,405 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:25:59,528 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:25:59,528 - root - INFO - 2023-12-10: inserted 2359 rows.
+2025-11-09 19:25:59,528 - root - INFO - Requesting data for 2023-12-11
+2025-11-09 19:25:59,528 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-11'}
+2025-11-09 19:26:01,830 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:01,889 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:02,381 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:02,381 - root - INFO - 2023-12-11: inserted 7894 rows.
+2025-11-09 19:26:02,381 - root - INFO - Requesting data for 2023-12-12
+2025-11-09 19:26:02,381 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-12'}
+2025-11-09 19:26:05,092 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:05,153 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:05,618 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:05,618 - root - INFO - 2023-12-12: inserted 7731 rows.
+2025-11-09 19:26:05,618 - root - INFO - Requesting data for 2023-12-13
+2025-11-09 19:26:05,618 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-13'}
+2025-11-09 19:26:07,814 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:07,881 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:08,227 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:08,227 - root - INFO - 2023-12-13: inserted 6959 rows.
+2025-11-09 19:26:08,227 - root - INFO - Requesting data for 2023-12-14
+2025-11-09 19:26:08,227 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-14'}
+2025-11-09 19:26:10,087 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:10,141 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:10,420 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:10,420 - root - INFO - 2023-12-14: inserted 5829 rows.
+2025-11-09 19:26:10,420 - root - INFO - Requesting data for 2023-12-15
+2025-11-09 19:26:10,420 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-15'}
+2025-11-09 19:26:12,636 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:12,695 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:13,021 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:13,021 - root - INFO - 2023-12-15: inserted 7502 rows.
+2025-11-09 19:26:13,021 - root - INFO - Requesting data for 2023-12-16
+2025-11-09 19:26:13,021 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-16'}
+2025-11-09 19:26:14,806 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:14,856 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:15,102 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:15,102 - root - INFO - 2023-12-16: inserted 5353 rows.
+2025-11-09 19:26:15,102 - root - INFO - Requesting data for 2023-12-17
+2025-11-09 19:26:15,102 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-17'}
+2025-11-09 19:26:16,439 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:16,477 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:16,612 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:16,612 - root - INFO - 2023-12-17: inserted 2063 rows.
+2025-11-09 19:26:16,612 - root - INFO - Requesting data for 2023-12-18
+2025-11-09 19:26:16,612 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-18'}
+2025-11-09 19:26:18,211 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:18,254 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:18,514 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:18,514 - root - INFO - 2023-12-18: inserted 3537 rows.
+2025-11-09 19:26:18,514 - root - INFO - Requesting data for 2023-12-19
+2025-11-09 19:26:18,514 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-19'}
+2025-11-09 19:26:19,846 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:19,878 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:20,161 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:20,161 - root - INFO - 2023-12-19: inserted 3136 rows.
+2025-11-09 19:26:20,161 - root - INFO - Requesting data for 2023-12-20
+2025-11-09 19:26:20,161 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-20'}
+2025-11-09 19:26:22,875 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:22,939 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:23,648 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:23,648 - root - INFO - 2023-12-20: inserted 8506 rows.
+2025-11-09 19:26:23,649 - root - INFO - Requesting data for 2023-12-21
+2025-11-09 19:26:23,649 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-21'}
+2025-11-09 19:26:25,425 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:25,461 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:25,727 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:25,728 - root - INFO - 2023-12-21: inserted 3428 rows.
+2025-11-09 19:26:25,728 - root - INFO - Requesting data for 2023-12-22
+2025-11-09 19:26:25,728 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-22'}
+2025-11-09 19:26:28,887 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:28,951 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:29,649 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:29,649 - root - INFO - 2023-12-22: inserted 9763 rows.
+2025-11-09 19:26:29,649 - root - INFO - Requesting data for 2023-12-23
+2025-11-09 19:26:29,649 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-23'}
+2025-11-09 19:26:30,749 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:30,783 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:30,901 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:30,901 - root - INFO - 2023-12-23: inserted 1503 rows.
+2025-11-09 19:26:30,901 - root - INFO - Requesting data for 2023-12-24
+2025-11-09 19:26:30,901 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-24'}
+2025-11-09 19:26:32,497 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:32,545 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:32,977 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:32,977 - root - INFO - 2023-12-24: inserted 4592 rows.
+2025-11-09 19:26:32,977 - root - INFO - Requesting data for 2023-12-25
+2025-11-09 19:26:32,977 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-25'}
+2025-11-09 19:26:34,257 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:34,299 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:34,559 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:34,559 - root - INFO - 2023-12-25: inserted 2799 rows.
+2025-11-09 19:26:34,559 - root - INFO - Requesting data for 2023-12-26
+2025-11-09 19:26:34,559 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-26'}
+2025-11-09 19:26:36,839 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:36,888 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:37,425 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:37,425 - root - INFO - 2023-12-26: inserted 7133 rows.
+2025-11-09 19:26:37,425 - root - INFO - Requesting data for 2023-12-27
+2025-11-09 19:26:37,425 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-27'}
+2025-11-09 19:26:39,677 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:39,738 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:40,371 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:40,371 - root - INFO - 2023-12-27: inserted 7756 rows.
+2025-11-09 19:26:40,371 - root - INFO - Requesting data for 2023-12-28
+2025-11-09 19:26:40,371 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-28'}
+2025-11-09 19:26:43,050 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:43,101 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:43,771 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:43,771 - root - INFO - 2023-12-28: inserted 7957 rows.
+2025-11-09 19:26:43,771 - root - INFO - Requesting data for 2023-12-29
+2025-11-09 19:26:43,771 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-29'}
+2025-11-09 19:26:46,298 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:46,363 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:47,140 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:47,140 - root - INFO - 2023-12-29: inserted 9125 rows.
+2025-11-09 19:26:47,140 - root - INFO - Requesting data for 2023-12-30
+2025-11-09 19:26:47,140 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-30'}
+2025-11-09 19:26:49,496 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:49,553 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:50,062 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:50,062 - root - INFO - 2023-12-30: inserted 7390 rows.
+2025-11-09 19:26:50,062 - root - INFO - Requesting data for 2023-12-31
+2025-11-09 19:26:50,062 - root - INFO - API request: http://final-project.simulative.ru/data | params={'date': '2023-12-31'}
+2025-11-09 19:26:51,125 - root - INFO - API response: status=200, content-type=text/html; charset=utf-8
+2025-11-09 19:26:51,159 - root - INFO - Подключение к базе данных установлено.
+2025-11-09 19:26:51,298 - root - INFO - Подключение к базе данных закрыто.
+2025-11-09 19:26:51,298 - root - INFO - 2023-12-31: inserted 1558 rows.
+2025-11-09 19:26:51,298 - root - INFO - Full history load finished. Total inserted: 2030552
