@@ -66,7 +66,7 @@ etl_project/
 ├── requirements.txt               # Список зависимостей Python (pandas, psycopg2, requests и т.д.)
 │
 └── README.md                      # Основное описание проекта
-
+```
 ## Описание данных
 
 Таблица `public.sales` содержит данные о транзакциях маркетплейса:
