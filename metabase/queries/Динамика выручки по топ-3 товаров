@@ -1,0 +1,29 @@
+WITH
+  top_products AS (
+    SELECT
+      product_id
+    FROM
+      public.sales
+    WHERE
+      {{date_time}} [[AND {{product_id}}]]
+    GROUP BY
+      product_id
+    ORDER BY
+      SUM(total_price) DESC
+    LIMIT
+      3
+  )
+SELECT
+  sales.date_time::date AS d,
+  sales.product_id,
+  SUM(sales.total_price) AS revenue
+FROM
+  public.sales
+  JOIN top_products t USING (product_id)
+WHERE
+  {{date_time}} [[AND {{product_id}}]]
+GROUP BY
+  d,
+  sales.product_id
+ORDER BY
+  d;
